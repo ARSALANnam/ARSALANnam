@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/yourprofile/"/>
-<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" href="https://github.com/ARSALANnom/" />
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ARSALANnom" height="30" width="40"/></a>
+<a href="https://youtube.com/@arsalanammusic?si=UPqbM6BDqygP4OLG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ARSALANam" height="30" width="40"/></a>
 </p>
 
 <!---
