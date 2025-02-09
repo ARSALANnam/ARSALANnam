@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ARSALANnom
-- 👀 I’m interested in python & Game Develop
-- 🌱 I’m currently learning Ai & Game Develop
+- 👀 I’m interested in python & Game Developer & ML
+- 🌱 I’m currently learning Ai & Game Developer & ML
 - 📫 How to reach me telegram id : @ARSALANnyn
-- ⚡ Fun fact: Game ,
 
 <!---
 ARSALANys/ARSALANys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
