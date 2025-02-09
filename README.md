@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />(https://www.linkedin.com/in/yourprofile/)
 <img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />(https://github.com/yourgithub/)
-![GitHub followers](https://img.shields.io/github/followers/yourgithub?style=social)
+
 
 <!---
 ARSALANys/ARSALANys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
