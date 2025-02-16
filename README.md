@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ARSALANnom
 - 👀 I’m interested in python - ML - Music
-- 🌱 I’m currently learning Ai - ML - Music - Game Developer
+- 🌱 I’m currently learning Ai - ML - Music - Game Developer - C & C++
 - 📫 How to reach me telegram id : @ARSALANnyn & @ARSALANnom
 
 <h3 align="left">Connect with me:</h3>
