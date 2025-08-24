@@ -66,14 +66,6 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/312uezxqo7shw5tn5vt7c3hqupli">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312uezxqo7shw5tn5vt7c3hqupli&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ARSALANnam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=ARSALANnam&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
