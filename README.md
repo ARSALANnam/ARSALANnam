@@ -15,8 +15,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h2 align="left">Hi 👋! My name is Arsalan (Echolyno) and I'm a  junior ML Programmer , from IRAN</h2>
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
