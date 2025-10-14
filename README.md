@@ -1,10 +1,10 @@
 # 💫 About Me:
 👋 Hi, I’m @ARSALANnam
 <br>👀 I’m interested in python - ML - Music
-<!-- <br>🔭 I’m currently working on ---- 
-<br>👯 I’m looking to collaborate on
+<br>🔭 I’m currently working on New Project
+<!-- <br>👯 I’m looking to collaborate on
 <br>🤝 I’m looking for help with <br>-->
-🌱 I’m currently learning Ai - ML - C/C++ - Music 
+🌱 I’m currently learning Ai - Deep Learning - CNN - C/C++ - Music 
 <br>📫 How to reach me telegram id : @ARSALANnyn
 <!-- <br>⚡ Fun fact<br>💬 Ask me about --->
 
