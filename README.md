@@ -1,8 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m @ARSALANnam
-<br>👀 I’m interested in python - ML - Music
+<br>👀 I’m interested in python - ML - Deep Learning
 <br>🔭 I’m currently working on New Project
-<br>🌱 I’m currently learning Ai - Deep Learning - CNN - C/C++ - Music 
+<br>🌱 I’m currently learning Ai - CNN - C/C++ - java
 <br>📫 How to reach me telegram id : @ARSALANnyn
 <!-- <br>⚡ Fun fact<br>💬 Ask me about --->
 
