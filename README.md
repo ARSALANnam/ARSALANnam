@@ -16,11 +16,6 @@ public class Arsalan {
     private final String[] skills = {
         "Java", "Python", "ML", "AI", "CNN", "Linux", "Git", "C++", "PyTorch",
         "TensorFlow", "Keras", "NumPy", "Pandas", "Matplotlib", "scikit-learn"
-
-    String telegram = "https://t.me/YourID";
-    String linkedin = "https://linkedin.com/in/arsalannam";
-    String youtube  = "https://youtube.com/@ARSALANamMusic";
-    String channel  = "https://t.me/YourChannel";
     );
 }
 ```
