@@ -1,8 +1,26 @@
-# 💫 About Me:
-👋 Hi, I’m @ARSALANnam
-<br>👀 I’m interested in python - ML - Deep Learning
-<br>🔭 I’m currently working on New Project
-<br>🌱 I’m currently learning Ai - CNN - C/C++ - java
+
+# 🚀 ARSALANnam | Echolyno
+
+> "Code. Create. Improve."
+
+---
+
+## 👨‍💻 About Me
+- 🤖 AI & ML Learner
+- 🐧 Linux User
+- 🎯 Java Learner
+
+---
+
+## ⚡ Tech
+```java
+public class Arsalan {
+    String[] skills = {
+        "Java", "Python", "ML", "AI", "CNN", Linux", "Git", "C++"
+    };
+}
+
+
 <br>📫 How to reach me telegram id : @ARSALANnyn
 <!-- <br>⚡ Fun fact<br>💬 Ask me about --->
 
@@ -26,7 +44,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-# 🚀 Arsalan | Software Engineer
+# 🚀 ARSALANnam | Echolyno
 
 > "Code. Create. Improve."
 
