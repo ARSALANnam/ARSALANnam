@@ -17,6 +17,34 @@ public class Arsalan {
         "Java", "Python", "ML", "AI", "CNN", "Linux", "Git", "C++", "PyTorch",
         "TensorFlow", "Keras", "NumPy", "Pandas", "Matplotlib", "scikit-learn"
     };
+
+        private final SocialLinks socials = new SocialLinks(
+        "https://t.me/YourTelegramID",
+        "https://www.linkedin.com/in/arsalannam",
+        "https://www.youtube.com/@ARSALANamMusic",
+        "https://t.me/YourChannel"
+    );
+
+}
+
+/* --- Social Media Container --- */
+class SocialLinks {
+
+    String telegram;
+    String linkedin;
+    String youtube;
+    String telegramChannel;
+
+    SocialLinks(String telegram,
+                String linkedin,
+                String youtube,
+                String telegramChannel) {
+
+        this.telegram = telegram;
+        this.linkedin = linkedin;
+        this.youtube = youtube;
+        this.telegramChannel = telegramChannel;
+    }
 }
 ```
 
