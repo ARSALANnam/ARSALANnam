@@ -24,3 +24,26 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ARSALANnam&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+# 🚀 Arsalan | Software Engineer
+
+> "Code. Create. Improve."
+
+---
+
+## 👨‍💻 About Me
+- 🎯 Java Backend Developer
+- 🤖 AI & ML Learner
+- 🐧 Linux User
+- 🎵 Music Producer
+
+---
+
+## ⚡ Tech
+```java
+public class Arsalan {
+    String[] skills = {
+        "Java", "Python", "AI", "Linux", "Git"
+    };
+}
