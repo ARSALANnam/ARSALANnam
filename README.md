@@ -14,8 +14,7 @@
 ```java
 public class Arsalan {
     String[] skills = {
-        "Java", "Python", "ML", "AI", "CNN", "Linux", "Git", "C++"
-        "Pytorch", "Tensorflow", "Keras", "Numpy", "Pandas", "Matplotlib", "scikit-learn"
+        "Java", "Python", "ML", "AI", "CNN", "Linux", "Git", "C++", "Pytorch", "Tensorflow", "Keras", "Numpy", "Pandas", "Matplotlib", "scikit-learn"
     };
 }
 ```
