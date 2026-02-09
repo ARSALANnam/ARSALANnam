@@ -45,5 +45,3 @@ public class Arsalan {
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
- telegram id : @ARSALANnyn
