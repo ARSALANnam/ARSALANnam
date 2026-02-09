@@ -3,14 +3,12 @@
 
 > "Code. Create. Improve."
 
----
 
 ## 👨‍💻 About Me
 - 🤖 AI & ML Learner
 - 🐧 Linux User
 - 🎯 Java Learner
 
----
 
 ## ⚡ Tech
 ```java
