@@ -19,42 +19,35 @@ public class Arsalan {
         "Keras", "NumPy", "Pandas", "Matplotlib", "scikit-learn", "LLM", "Transformer"
     );
 }
+
+public class Arsalan {
+    // Programming Languages
+    private final String[] languages = {
+        "Java", "Python"
+    };
+
+    // Machine Learning & AI Concepts
+    private final String[] mlAiConcepts = {
+        "Machine Learning (ML)", "Artificial Intelligence (AI)", "Convolutional Neural Network (CNN)", "Large Language Models (LLM)", "Transformer"
+    };
+
+    // Frameworks & Libraries
+    private final String[] frameworks = {
+        "PyTorch", "TensorFlow", "Keras", "scikit-learn"
+    };
+
+    // Data Science Tools & Libraries
+    private final String[] dataTools = {
+        "NumPy", "Pandas", "Matplotlib"
+    };
+
+    // Development Tools & Systems
+    private final String[] tools = {
+        "Git", "Linux"
+    };
+}
+
 ```
-
-گیت‌هاب این را فقط **به صورت کد نمایش می‌دهد**.
-
-### 2️⃣ روش بهتر برای README (پیشنهادی)
-برای README معمولاً **لیست مهارت‌ها را مستقیم می‌نویسند** نه کد جاوا. مثلاً:
-
-```markdown
-## 🧠 Skills
-
-### Programming Languages
-- Java
-- Python
-
-### Machine Learning & AI
-- Machine Learning (ML)
-- Artificial Intelligence (AI)
-- CNN
-- LLM
-- Transformer
-
-### Frameworks & Libraries
-- PyTorch
-- TensorFlow
-- Keras
-- scikit-learn
-
-### Data Science
-- NumPy
-- Pandas
-- Matplotlib
-
-### Tools
-- Git
-- Linux
-
 
 
 <div align="center">
