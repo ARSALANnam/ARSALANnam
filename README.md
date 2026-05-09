@@ -88,7 +88,7 @@ public class Arsalan {
 
     // Backend Development (Java Ecosystem)
     private final String[] backendJava = {
-        "Spring Boot", "Spring MVC", "Hibernate", "JPA"
+        "Spring Boot"
     };
 
     // Backend Development (Python Ecosystem)
