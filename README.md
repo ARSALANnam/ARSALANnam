@@ -13,51 +13,6 @@
 
 ## 🧠 Tech Stack & Skills
 
-## 🧠 Tech Stack
-
-### 💻 Programming Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java" height="40"/>
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://skillicons.dev/icons?i=c" height="40"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="40"/>
-</p>
-
-### 🖥 Backend Development
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring" height="40"/>
-<img src="https://skillicons.dev/icons?i=flask" height="40"/>
-</p>
-
-### 🗄 Databases
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres" height="40"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-</p>
-
-### 🤖 Machine Learning / Deep Learning
-<p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
-<img src="https://skillicons.dev/icons?i=opencv" height="40"/>
-<img src="https://skillicons.dev/icons?i=sklearn" height="40"/>
-</p>
-
-### 📊 Data Science
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
-</p>
-
-NumPy • Pandas • Matplotlib • Seaborn • SciPy
-
-### ⚙️ Tools & Systems
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git" height="40"/>
-<img src="https://skillicons.dev/icons?i=docker" height="40"/>
-<img src="https://skillicons.dev/icons?i=linux" height="40"/>
-</p>
-
-
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
