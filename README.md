@@ -12,7 +12,16 @@
 
 
 ## 🧠 Tech Stack & Skills
-    
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java" height="40"/>
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+<img src="https://skillicons.dev/icons?i=spring" height="40"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker" height="40"/>
+</p>
+
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
