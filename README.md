@@ -6,6 +6,7 @@
 
 ## 👨‍💻 About Me
 - 🤖 AI & ML Learner
+- 💻 Computer Engineering Student
 - 🐧 Linux User
 - 🎯 Java Learner
 
@@ -19,6 +20,30 @@ public class Arsalan {
     );
 }
 ```
+
+public void showSkills() {
+    System.out.println("=== Programming Languages ===");
+    printArray(languages);
+
+    System.out.println("\n=== Machine Learning & AI Concepts ===");
+    printArray(mlAiConcepts);
+
+    System.out.println("\n=== Frameworks & Libraries ===");
+    printArray(frameworks);
+
+    System.out.println("\n=== Data Science Tools ===");
+    printArray(dataTools);
+
+    System.out.println("\n=== Development Tools & Systems ===");
+    printArray(tools);
+}
+
+private void printArray(String[] array) {
+    for (String item : array) {
+        System.out.println("- " + item);
+    }
+}
+
 
 <div align="center">
 
