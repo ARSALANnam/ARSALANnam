@@ -14,36 +14,47 @@
 ## ⚡ Tech
 ```java
 public class Arsalan {
-    private final String[] skills = {
-        "Java", "Python", "ML", "AI", "CNN", "Linux", "Git", "PyTorch","TensorFlow",
-        "Keras", "NumPy", "Pandas", "Matplotlib", "scikit-learn", "LLM", "Transformer"
-    );
-}
-
-public class Arsalan {
     // Programming Languages
     private final String[] languages = {
-        "Java", "Python"
+        "Java", "Python", "C/C++"
     };
 
     // Machine Learning & AI Concepts
-    private final String[] mlAiConcepts = {
-        "Machine Learning (ML)", "Artificial Intelligence (AI)", "Convolutional Neural Network (CNN)", "Large Language Models (LLM)", "Transformer"
+    private final String[] aiSkills = {
+        "Machine Learning (ML)",
+        "Artificial Intelligence (AI)",
+        "Convolutional Neural Network (CNN)",
+        "Large Language Models (LLM)", "Transformer"
     };
 
     // Frameworks & Libraries
-    private final String[] frameworks = {
-        "PyTorch", "TensorFlow", "Keras", "scikit-learn"
+    private final String[] aiFrameworks = {
+        "PyTorch", "TensorFlow", "Keras", "scikit-learn", "OpenCV"
     };
 
     // Data Science Tools & Libraries
     private final String[] dataTools = {
-        "NumPy", "Pandas", "Matplotlib"
+        "NumPy", "Pandas", "Matplotlib", "Seaborn", "SciPy"
     };
 
     // Development Tools & Systems
     private final String[] tools = {
         "Git", "Linux"
+    };
+
+    // Backend Development (Java Ecosystem)
+    private final String[] backendJava = {
+        "Spring Boot", "Spring MVC", "Hibernate", "JPA"
+    };
+
+    // Backend Development (Python Ecosystem)
+    private final String[] backendPython = {
+        "Flask"
+    };
+
+    // Databases
+    private final String[] databases = {
+        "SQL", "PostgreSQL", "MySQL"
     };
 }
 
