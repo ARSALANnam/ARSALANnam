@@ -21,28 +21,40 @@ public class Arsalan {
 }
 ```
 
-public void showSkills() {
-    System.out.println("=== Programming Languages ===");
-    printArray(languages);
+گیت‌هاب این را فقط **به صورت کد نمایش می‌دهد**.
 
-    System.out.println("\n=== Machine Learning & AI Concepts ===");
-    printArray(mlAiConcepts);
+### 2️⃣ روش بهتر برای README (پیشنهادی)
+برای README معمولاً **لیست مهارت‌ها را مستقیم می‌نویسند** نه کد جاوا. مثلاً:
 
-    System.out.println("\n=== Frameworks & Libraries ===");
-    printArray(frameworks);
+```markdown
+## 🧠 Skills
 
-    System.out.println("\n=== Data Science Tools ===");
-    printArray(dataTools);
+### Programming Languages
+- Java
+- Python
 
-    System.out.println("\n=== Development Tools & Systems ===");
-    printArray(tools);
-}
+### Machine Learning & AI
+- Machine Learning (ML)
+- Artificial Intelligence (AI)
+- CNN
+- LLM
+- Transformer
 
-private void printArray(String[] array) {
-    for (String item : array) {
-        System.out.println("- " + item);
-    }
-}
+### Frameworks & Libraries
+- PyTorch
+- TensorFlow
+- Keras
+- scikit-learn
+
+### Data Science
+- NumPy
+- Pandas
+- Matplotlib
+
+### Tools
+- Git
+- Linux
+
 
 
 <div align="center">
