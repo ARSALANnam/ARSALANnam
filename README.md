@@ -84,7 +84,7 @@ public class Arsalan {
 
     // Data Science Tools & Libraries
     private final String[] dataTools = {
-        "NumPy", "Pandas", "Matplotlib", "Seaborn", "SciPy"
+        "NumPy", "Pandas", "Matplotlib", "Seaborn", "SciPy", "Plotly", "Dash", "Jupyter"
     };
 
     // Development Tools & Systems
