@@ -360,7 +360,10 @@ enum Song {
 ```
 
 <div align="center">
+
+  
 # My Social
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@ARSALANnyn)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@arsalannam?si=NYLjwWdRJ1rpKrnW) 
 [![YouTube](https://img.shields.io/badge/YouTube-222222?style=for-the-badge&logo=youtube&logoColor=EEEEEE)](https://youtube.com/@echolyno?si=0-hh9q8pkeLF8uVo) 
