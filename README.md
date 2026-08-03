@@ -89,7 +89,7 @@ I bridge the gap between **Artificial Intelligence** and **Software Engineering*
  * ╚══════════════════════════════════════════════════════════════╝
  *
  * @author  Arsalan
- * @version 2.0.0
+ * @version 2.4.0
  * @since   2006
  *
  * Motto:   "Code. Create. Improve."
@@ -116,8 +116,8 @@ public class Arsalan extends Human implements Developer, AILearner, GuitarPlayer
         "🎵 Rock / Metal / Classical Music",
         "🐧 Linux Customization",
         "🌱 Taking care of my plants",
-        "📚 Reading AI Papers"
-        "🍵 Tea & Herbal Infusions"
+        "📚 Reading AI Papers",
+        "🍵 Tea & Herbal Infusions",
         "📚 Reading philosophy & sci-fi",
         "🎬 Watching masterpieces"
     };
@@ -181,7 +181,7 @@ public class Arsalan extends Human implements Developer, AILearner, GuitarPlayer
     // ==================== CONSTRUCTOR ====================
     public Arsalan() {
         System.out.println("[INFO] Initializing Arsalan instance...");
-        this.teaLevel = tea.FRESHLY_BREWED;
+        this.teaLevel = Tea.FRESHLY_BREWED;
         this.mode = Mode.CREATIVE;
     }
 
@@ -194,7 +194,6 @@ public class Arsalan extends Human implements Developer, AILearner, GuitarPlayer
     public void whatIDo() {
         System.out.println("🤖 Training CNNs and fine-tuning LLMs / Transformers");
         System.out.println("📊 Wrangling datasets with Pandas & NumPy");
-        System.out.println("🤖 Training CNNs and fine-tuning LLMs / Transformers");
         System.out.println("🧠 Developing AI-powered applications & experiments");
         System.out.println("☕ Coding in Java & building backend services");
         System.out.println("🐧 Living inside Linux terminals & customizing my setup");
@@ -207,7 +206,7 @@ public class Arsalan extends Human implements Developer, AILearner, GuitarPlayer
     public void dailyRoutine() {
         Plants.water(Plants.ALL); // 🌱 First thing every morning
         Beverage.pour(Beverage.HOT_TEA); // ☕ Then tea, always tea
-        Infusion.SAFFRON_ROSE.steep(); // 🍵 Or a Persian herbal infusion
+        Infusion.steep(Infusion.SAFFRON_ROSE);
         Linux.terminal.open();
         new IDE("IntelliJ IDEA").launch();
         this.writeCleanCode();
@@ -240,8 +239,6 @@ public class Arsalan extends Human implements Developer, AILearner, GuitarPlayer
         UI.printSection("Frameworks",        AI_FRAMEWORKS);
         UI.printSection("Languages",         LANGUAGES);
         UI.printSection("Data Science",      DATA_TOOLS);
-        UI.printSection("Backend",           BACKEND);
-        UI.printSection("Databases",         DATABASES);
         UI.printSection("Dev Tools",         DEV_TOOLS);
     }
 
@@ -251,7 +248,7 @@ public class Arsalan extends Human implements Developer, AILearner, GuitarPlayer
      */
     public Map<String, String> getSocialLinks() {
         return Map.of(
-            "Email",          "arsalannam9710@gmail.com"
+            "Email",          "arsalannam9710@gmail.com",
             "Telegram",       "https://t.me/ARSALANnyn",
             "LinkedIn",       "https://linkedin.com/in/arsalannam",
             "YouTube",        "https://youtube.com/@arsalannam",
@@ -259,13 +256,13 @@ public class Arsalan extends Human implements Developer, AILearner, GuitarPlayer
             "LeetCode",       "https://leetcode.com/u/arsalannam/",
             "Codewars",       "https://www.codewars.com/users/Echolyno",
             "Reddit",         "https://reddit.com/user/u/ARSALANys",
-            "StackOverflow",  "https://stackexchange.com/users/45570542",
+            "StackOverflow",  "https://stackexchange.com/users/45570542"
         );
     }
 
     // ==================== MAIN ENTRY POINT ====================
     public static void main(String[] args) {
-        System.out.println("🚀 Starting Arsalan v2.0.0 ...");
+        System.out.println("🚀 Starting Arsalan v2.4.0 ...");
         System.out.println(">>> " + MOTTO);
         System.out.println(">>> " + WARNING);
         System.out.println();
@@ -315,7 +312,7 @@ enum Infusion {
     PEPPERMINT,     // نعنا - برای تمرکز
     LAVENDER,       // اسطوخودوس
     GINGER_LEMON,   // زنجبیل لیمو
-    SAFFRON_ROSE;   // زعفران گل محمدی - مخصوص ایرانی
+    SAFFRON_ROSE,  // زعفران گل محمدی - مخصوص ایرانی
     LEMON_BALM,     // بادرنجبویه - آرامش‌بخش سنتی ایرانی
     CINNAMON,       // دارچین - گرم و انرژی‌بخش
     LEMON_VERBENA,  // به لیمو - عطر ملایم و دلنشین
