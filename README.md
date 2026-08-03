@@ -12,6 +12,13 @@
   </blockquote>
 </div>
 
+<!-- گزینه ۲: لیست "Recently Played" -->
+<div align="center">
+  <a href="https://open.spotify.com/user/312uezxqo7shw5tn5vt7c3hqupli?si=73ddbbe9d13944a1">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=4&unique=true" alt="Spotify Recently Played" />
+  </a>
+</div>
+
 
 ## 👨‍💻 About Me and What I Do
 
