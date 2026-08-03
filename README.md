@@ -79,6 +79,177 @@ I bridge the gap between **Artificial Intelligence** and **Software Engineering*
 
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=public+static+void+main(String[]+args);new+Arsalan().run();" alt="Typing SVG" />
+</div>
+
+```java
+/**
+ * ╔══════════════════════════════════════════════════════════════╗
+ * ║                   Arsalan.java                               ║
+ * ║         Computer Engineering Student | AI Developer          ║
+ * ╚══════════════════════════════════════════════════════════════╝
+ *
+ * @author  Arsalan
+ * @version 2.0.0
+ * @since   1997
+ *
+ * Motto:   "Code. Create. Improve."
+ * Warning: "You are gay for my code."
+ */
+public class Arsalan extends Human implements Developer, AILearner, GuitarPlayer {
+
+    // ==================== STATIC CONSTANTS ====================
+    public static final String MOTTO    = "Code. Create. Improve.";
+    public static final String WARNING  = "You are gay for my code.";
+    public static final String OS       = "Linux 🐧";
+
+    // ==================== PERSONAL INFO ====================
+    private final String name      = "Arsalan";
+    private final String role      = "Computer Engineering Student";
+    private final String focus     = "AI & Machine Learning";
+    private final String[] spoken  = {
+        "🇮🇷 Persian (Native)",
+        "🇬🇧 English (Intermediate)",
+        "🇮🇹 Italian (Basic)"
+    };
+    private final String[] hobbies = {
+        "🎸 Guitar (Intermediate)",
+        "🎵 Rock / Metal / Classical Music",
+        "🐧 Linux Customization",
+        "📚 Reading AI Papers"
+    };
+
+    // ==================== TECH STACK ====================
+
+    private final String[] LANGUAGES = {
+        "Java", "Python", "C", "C++", "HTML5", "CSS3"
+    };
+
+    private final String[] AI_CONCEPTS = {
+        "Machine Learning (ML)",
+        "Deep Learning (DL)",
+        "Artificial Intelligence (AI)",
+        "Convolutional Neural Networks (CNN)",
+        "Natural Language Processing (NLP)",
+        "Large Language Models (LLM)",
+        "Transformers"
+    };
+
+    private final String[] AI_FRAMEWORKS = {
+        "PyTorch", "TensorFlow", "Keras",
+        "scikit-learn", "OpenCV", "Hugging Face"
+    };
+
+    private final String[] DATA_TOOLS = {
+        "NumPy", "Pandas", "Matplotlib",
+        "Seaborn", "SciPy", "Plotly", "Dash", "Jupyter"
+    };
+
+    private final String[] BACKEND = {
+        "Spring Boot", "Flask"
+    };
+
+    private final String[] DATABASES = {
+        "PostgreSQL", "MySQL", "SQL"
+    };
+
+    private final String[] DEV_TOOLS = {
+        "Git", "Linux", "Vim",
+        "IntelliJ IDEA", "PyCharm"
+    };
+
+    // ==================== CONSTRUCTOR ====================
+    public Arsalan() {
+        System.out.println("[INFO] Initializing Arsalan instance...");
+        this.coffeeLevel = Coffee.FULL;
+        this.mode        = Mode.CREATIVE;
+    }
+
+    // ==================== BEHAVIOR ====================
+
+    /**
+     * What I actually do in my day-to-day life.
+     * Bridging AI research with production-ready software.
+     */
+    public void whatIDo() {
+        System.out.println("🤖 Training CNNs and fine-tuning LLMs / Transformers");
+        System.out.println("📊 Wrangling datasets with Pandas & NumPy");
+        System.out.println("🔧 Building RESTful APIs with Spring Boot & Flask");
+        System.out.println("🐧 Deploying on Linux environments");
+        System.out.println("🎸 Decompressing with Black Sabbath & Bach");
+    }
+
+    /**
+     * My daily routine as a method call chain.
+     */
+    public void dailyRoutine() {
+        Coffee.drink(Coffee.STRONG);
+        Linux.terminal.open();
+        new IDE("IntelliJ IDEA").launch();
+        this.writeCleanCode();
+        this.trainModel(ModelType.NEURAL_NETWORK);
+        Git.commit("feat: added something cool");
+        Guitar.play(Song.IRON_MAN);
+    }
+
+    /**
+     * Prints the complete tech stack to stdout.
+     */
+    public void printTechStack() {
+        UI.printSection("AI / ML / DL",      AI_CONCEPTS);
+        UI.printSection("Frameworks",        AI_FRAMEWORKS);
+        UI.printSection("Languages",         LANGUAGES);
+        UI.printSection("Data Science",      DATA_TOOLS);
+        UI.printSection("Backend",           BACKEND);
+        UI.printSection("Databases",         DATABASES);
+        UI.printSection("Dev Tools",         DEV_TOOLS);
+    }
+
+    /**
+     * Connect with me at runtime.
+     * @return Map of social links
+     */
+    public Map<String, String> getSocialLinks() {
+        return Map.of(
+            "Telegram",       "https://t.me/ARSALANnyn",
+            "LinkedIn",       "https://linkedin.com/in/arsalannam",
+            "YouTube",        "https://youtube.com/@arsalannam",
+            "Kaggle",         "https://www.kaggle.com/arsalannom",
+            "LeetCode",       "https://leetcode.com/u/arsalannam/",
+            "Codewars",       "https://www.codewars.com/users/Echolyno",
+            "Reddit",         "https://reddit.com/user/u/ARSALANys",
+            "StackOverflow",  "https://stackexchange.com/users/45570542",
+            "Email",          "arsalannam9710@gmail.com"
+        );
+    }
+
+    // ==================== MAIN ENTRY POINT ====================
+    public static void main(String[] args) {
+        System.out.println("🚀 Starting Arsalan v2.0.0 ...");
+        System.out.println(">>> " + MOTTO);
+        System.out.println(">>> " + WARNING);
+        System.out.println();
+
+        Arsalan me = new Arsalan();
+        me.whatIDo();
+        me.printTechStack();
+        me.dailyRoutine();
+    }
+}
+
+/**
+ * Supporting interfaces & records.
+ */
+interface Developer   { void writeCleanCode(); }
+interface AILearner   { void trainModel(ModelType type); }
+interface GuitarPlayer{ void play(Song song); }
+enum Coffee { EMPTY, NORMAL, STRONG, FULL }
+enum Mode   { CHILL, CREATIVE, FOCUS }
+enum ModelType { NEURAL_NETWORK, CNN, TRANSFORMER, LLM }
+enum Song   { IRON_MAN, STAIRWAY_TO_HEAVEN, BACH_PRELUDE }
+
+
 ```java
 import java.util.Map;
 import java.util.List;
