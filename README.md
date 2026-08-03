@@ -360,9 +360,6 @@ enum Song {
 
 
 ```
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312uezxqo7shw5tn5vt7c3hqupli&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=false&bar_color=813d9c)](https://spotify-github-profile.kittinanx.com/api/view?uid=312uezxqo7shw5tn5vt7c3hqupli&redirect=true)
-
 <div align="center">
 <p>Have a good day!</p>
 <div>
