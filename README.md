@@ -12,9 +12,8 @@
   </blockquote>
 </div>
 
-<div align="center">
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312uezxqo7shw5tn5vt7c3hqupli&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=813d9c&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=312uezxqo7shw5tn5vt7c3hqupli&redirect=true)
-</div>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312uezxqo7shw5tn5vt7c3hqupli&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=813d9c&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=312uezxqo7shw5tn5vt7c3hqupli&redirect=true)(align=center)
 
 ## 👨‍💻 About Me and What I Do
 
