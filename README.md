@@ -67,8 +67,13 @@
 <!-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) -->
 
 
+# Hi there, I'm Arsalan 👋
 
-## ⚡ Tech
+> *"Code. Create. Improve."*  
+> *"You are gay for my code."*
+
+## 👨‍💻 About Me
+
 ```java
 import java.util.Map;
 import java.util.List;
@@ -76,20 +81,23 @@ import java.util.List;
 public class Arsalan {
 
     // 👨‍💻 Basic Info
+    public final String role = "Computer Engineering Student";
     public final String title = "AI & Software Enthusiast";
     public final String status = "Building cool things with code and data";
+    public final String focus = "AI & ML Learner | Java Learner | Linux User";
 
     // 🧠 AI & Data Science Specialties
     private final List<String> aiSpecialties = List.of(
-        "Artificial Intelligence (AI)", "Machine Learning (ML)", 
-        "Deep Learning (DL)", "Natural Language Processing (NLP)", 
-        "Large Language Models (LLM)", "Convolutional Neural Networks (CNN)", 
-        "Transformers"
+        "Artificial Intelligence (AI)",
+        "Machine Learning (ML)", 
+        "Deep Learning (DL)",
+        "Large Language Models (LLM)",
+         "Convolutional Neural Networks (CNN)"
     );
 
     // 💻 Programming Languages
     private final List<String> programmingLanguages = List.of(
-        "Python", "Java", "C/C++"
+        "Python", "Java", "C/C++, "HTML/CSS""
     );
 
     // 🛠️ Frameworks & Libraries
@@ -166,4 +174,10 @@ public class Arsalan {
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
+
+<p>Have a good day!</p>
+<div>
+<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+</div>
 </div>
