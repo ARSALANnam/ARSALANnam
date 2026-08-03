@@ -358,7 +358,8 @@ enum Song {
 
 ```
 
-
+<div align="center">
+# My Social
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@ARSALANnyn)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@arsalannam?si=NYLjwWdRJ1rpKrnW) 
 [![YouTube](https://img.shields.io/badge/YouTube-222222?style=for-the-badge&logo=youtube&logoColor=EEEEEE)](https://youtube.com/@echolyno?si=0-hh9q8pkeLF8uVo) 
@@ -371,6 +372,7 @@ enum Song {
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Echolyno)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arsalannam9710@gmail.com) 
 
+</div>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312uezxqo7shw5tn5vt7c3hqupli&redirect=true">
