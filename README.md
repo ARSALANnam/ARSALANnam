@@ -1,9 +1,3 @@
-<div align="center">
-  <blockquote>
-    <h3>ARSALANnam | Echolyno</h3> 
-  </blockquote>
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=600&lines=Code.+Create.+Improve.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
@@ -14,16 +8,24 @@
 
 <div align="center">
   <blockquote>
-    <h3>💡 "Code. Create. Improve."</h3>
-    <h4><i>🏴‍☠️ "You are gay for my code."</i></h4>
+    <h3><i>🏴‍☠️ "You are gay for my code."</i></h3>
   </blockquote>
 </div>
 
 ## 👨‍💻 About Me
-- 🤖 AI & ML Learner
-- 💻 Computer Engineering Student
-- 🐧 Linux User
-- 🎯 Java Learner
+
+- 🤖 **AI & ML Learner** exploring the frontiers of Deep Learning and Neural Networks.
+- 💻 **Computer Engineering Student** passionate about software architecture and clean code.
+- 🐧 **Linux User** and terminal enthusiast.
+- 🎯 **Java & Python Developer**, currently diving deep into Spring Boot and Flask.
+
+---
+
+## 🚀 What I Do
+
+I bridge the gap between **Artificial Intelligence** and **Software Engineering**. My daily workflow involves training and fine-tuning **CNNs** and **Large Language Models (LLMs/Transformers)**, analyzing complex datasets using **Pandas** and **NumPy**, and deploying scalable backend services using **Spring Boot** and **Flask**. I am focused on building intelligent, data-driven applications and APIs that solve real-world problems while ensuring seamless deployment in **Linux** environments.
+
+---
 
 
 ## 🧠 Tech Stack & Skills
