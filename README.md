@@ -13,14 +13,12 @@
 </div>
 
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me and What I Do
 
 - 🤖 **AI & ML Learner** exploring the frontiers of Deep Learning and Neural Networks.
 - 💻 **Computer Engineering Student** passionate about software architecture and clean code.
 - 🐧 **Linux User** and terminal enthusiast.
 - 🎯 **Java & Python Developer**, currently diving deep into Spring Boot and Flask.
-
-## 🚀 What I Do
 
 I bridge the gap between **Artificial Intelligence** and **Software Engineering**. My daily workflow involves training and fine-tuning **CNNs** and **Large Language Models (LLMs/Transformers)**, analyzing complex datasets using **Pandas** and **NumPy**, and deploying scalable backend services using **Spring Boot** and **Flask**. I am focused on building intelligent, data-driven applications and APIs that solve real-world problems while ensuring seamless deployment in **Linux** environments.
 
