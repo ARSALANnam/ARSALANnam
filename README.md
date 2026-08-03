@@ -1,9 +1,8 @@
-
-# 🚀 ARSALANnam | Echolyno
-
-> "Code. Create. Improve."
-
-> "You are gay for my code."
+<div align="center">
+  <blockquote>
+    <h3>ARSALANnam | Echolyno</h3> 
+  </blockquote>
+</div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=600&lines=Code.+Create.+Improve.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
