@@ -70,51 +70,73 @@
 
 ## ⚡ Tech
 ```java
+import java.util.Map;
+import java.util.List;
+
 public class Arsalan {
-    // Programming Languages
-    private final String[] languages = {
-        "Java", "Python", "C/C++"
-    };
 
-    // Machine Learning & AI Concepts
-    private final String[] aiSkills = {
-        "Machine Learning (ML)",
-        "Artificial Intelligence (AI)",
-        "Convolutional Neural Network (CNN)",
-        "Large Language Models (LLM)", "Transformer"
-    };
+    // 👨‍💻 Basic Info
+    public final String title = "AI & Software Enthusiast";
+    public final String status = "Building cool things with code and data";
 
-    // Frameworks & Libraries
-    private final String[] aiFrameworks = {
+    // 🧠 AI & Data Science Specialties
+    private final List<String> aiSpecialties = List.of(
+        "Artificial Intelligence (AI)", "Machine Learning (ML)", 
+        "Deep Learning (DL)", "Natural Language Processing (NLP)", 
+        "Large Language Models (LLM)", "Convolutional Neural Networks (CNN)", 
+        "Transformers"
+    );
+
+    // 💻 Programming Languages
+    private final List<String> programmingLanguages = List.of(
+        "Python", "Java", "C/C++"
+    );
+
+    // 🛠️ Frameworks & Libraries
+    private final List<String> aiFrameworks = List.of(
         "PyTorch", "TensorFlow", "Keras", "scikit-learn", "OpenCV"
-    };
+    );
 
-    // Data Science Tools & Libraries
-    private final String[] dataTools = {
-        "NumPy", "Pandas", "Matplotlib", "Seaborn", "SciPy", "Plotly", "Dash", "Jupyter"
-    };
+    private final List<String> dataTools = List.of(
+        "NumPy", "Pandas", "Matplotlib", "Seaborn", "SciPy", "Plotly", "Dash"
+    );
 
-    // Development Tools & Systems
-    private final String[] tools = {
-        "Git", "Linux"
-    };
+    // ⚙️ Backend & Databases
+    private final List<String> backendAndDB = List.of(
+        "Spring Boot", "Flask", "PostgreSQL", "MySQL", "SQL"
+    );
 
-    // Backend Development (Java Ecosystem)
-    private final String[] backendJava = {
-        "Spring Boot"
-    };
+    // 🔧 Tools & Environment
+    private final List<String> tools = List.of(
+        "Git", "Linux", "Jupyter"
+    );
 
-    // Backend Development (Python Ecosystem)
-    private final String[] backendPython = {
-        "Flask"
-    };
+    // 🌍 Spoken Languages
+    private final Map<String, String> languages = Map.of(
+        "Persian", "Native 🇮🇷",
+        "English", "Intermediate 🇬🇧",
+        "Italian", "Basic 🇮🇹"
+    );
 
-    // Databases
-    private final String[] databases = {
-        "SQL", "PostgreSQL", "MySQL"
-    };
+    // 🎸 Hobbies & Interests
+    private final List<String> hobbies = List.of(
+        "Listening to Rock, Metal & Classical Music 🤘🎼",
+        "Playing Guitar (Intermediate) 🎸"
+    );
+
+    // 🎯 Currently Learning / Exploring (بخش پیشنهادی)
+    private final String currentlyLearning = "Advanced RAG systems and MLOps";
+
+    // 📫 Contact / Socials (بخش پیشنهادی)
+    private final Map<String, String> contact = Map.of(
+        "Email", "your.email@example.com",
+        "LinkedIn", "linkedin.com/in/yourusername"
+    );
+
+    public void sayHi() {
+        System.out.println("Thanks for dropping by! Feel free to check out my repositories and let's build something awesome together.");
+    }
 }
-
 ```
 
 <div align="center">
