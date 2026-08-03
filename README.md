@@ -363,56 +363,7 @@ enum Song {
 
 ```
 
-## 🎧 // === LIVE FROM SPOTIFY ===
-
-<!-- گزینه ۱: کارت "Now Playing" زنده -->
-<div align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
-</div>
-
-<!-- گزینه ۲: لیست "Recently Played" -->
-<div align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=4&unique=true" alt="Spotify Recently Played" />
-  </a>
-</div>
-
-<!-- گزینه ۳: بج ساده لینک به پلی‌لیست -->
-<div align="center">
-  <a href="https://open.spotify.com/playlist/https://open.spotify.com/playlist/6h0VU9vSHkgiJRPoQiLlQq?si=491ab4160b884597">
-    <img src="https://img.shields.io/badge/My%20Prog%20Rock%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
-  </a>
-</div>
-
-
-## ⚡ // === RUNTIME OUTPUT: CONNECT WITH ME ===
-
-<div align="center">
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@ARSALANnyn)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@arsalannam?si=NYLjwWdRJ1rpKrnW) 
-[![YouTube](https://img.shields.io/badge/YouTube-222222?style=for-the-badge&logo=youtube&logoColor=EEEEEE)](https://youtube.com/@echolyno?si=0-hh9q8pkeLF8uVo) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arsalannam) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackexchange.com/users/45570542/arsalannam-echolyno?tab=top)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/u/ARSALANys)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arsalannom)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/arsalannam/)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Echolyno)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arsalannam9710@gmail.com) 
-</div>
-
-
-
-## 📊 // === SYSTEM STATISTICS ===
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arsalannam&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=arsalannam&theme=dracula&hide_border=true" alt="Streak Stats" />
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalannam&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
-</div>
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312uezxqo7shw5tn5vt7c3hqupli&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=false&bar_color=813d9c)](https://spotify-github-profile.kittinanx.com/api/view?uid=312uezxqo7shw5tn5vt7c3hqupli&redirect=true)
 
 <div align="center">
 <p>Have a good day!</p>
