@@ -24,7 +24,7 @@ I bridge the gap between **Artificial Intelligence** and **Software Engineering*
 
 
 
-## 🧠 Tech Stack & Skills
+<!-- ## 🧠 Tech Stack & Skills
 
 ### 🤖 AI, ML & Deep Learning Concepts
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
@@ -74,6 +74,7 @@ I bridge the gap between **Artificial Intelligence** and **Software Engineering*
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+-->
 
 ---
 
