@@ -92,7 +92,7 @@ I bridge the gap between **Artificial Intelligence** and **Software Engineering*
  *
  * @author  Arsalan
  * @version 2.0.0
- * @since   1997
+ * @since   2006
  *
  * Motto:   "Code. Create. Improve."
  * Warning: "You are gay for my code."
@@ -117,7 +117,11 @@ public class Arsalan extends Human implements Developer, AILearner, GuitarPlayer
         "🎸 Guitar (Intermediate)",
         "🎵 Rock / Metal / Classical Music",
         "🐧 Linux Customization",
+        "🌱 Taking care of my plants",
         "📚 Reading AI Papers"
+        "🍵 Tea & Herbal Infusions"
+        "📚 Reading philosophy & sci-fi",
+        "🎬 Watching masterpieces"
     };
 
     // ==================== TECH STACK ====================
@@ -131,6 +135,7 @@ public class Arsalan extends Human implements Developer, AILearner, GuitarPlayer
         "Deep Learning (DL)",
         "Artificial Intelligence (AI)",
         "Convolutional Neural Networks (CNN)",
+        "Computer Vision",
         "Natural Language Processing (NLP)",
         "Large Language Models (LLM)",
         "Transformers"
@@ -146,24 +151,40 @@ public class Arsalan extends Human implements Developer, AILearner, GuitarPlayer
         "Seaborn", "SciPy", "Plotly", "Dash", "Jupyter"
     };
 
-    private final String[] BACKEND = {
-        "Spring Boot", "Flask"
-    };
-
-    private final String[] DATABASES = {
-        "PostgreSQL", "MySQL", "SQL"
-    };
-
     private final String[] DEV_TOOLS = {
         "Git", "Linux", "Vim",
         "IntelliJ IDEA", "PyCharm"
     };
 
+
+    // ==================== CULTURE & MEDIA ====================
+    /**
+     * Books that shaped how I think about life, art & humanity.
+     */
+    private final String[] FAVORITE_BOOKS = {
+        new Book("The Divine Comedy", "Dante Alighieri", "📖 An epic journey through Hell, Purgatory & Paradise"),
+        new Book("Romeo and Juliet", "William Shakespeare","📖 Timeless tragedy of love and fate"),
+        new Book("The Fall", "Albert Camus", "📖 Existential reflections on guilt and judgment"),
+        new Book("The Devil", "Leo Tolstoy", "📖 A deep dive into temptation and moral struggle"),
+        new Book("Project Hail Mary", "Andy Weir", "🚀 Sci-fi masterpiece — hope, science & loneliness")
+
+    };
+
+    private final String[] FAVORITE_MOVIES = {
+        new Movie("Léon: The Professional", 1994, "🎬 Action / Drama"),
+        new Movie("Star Wars: Episode III - Revenge of the Sith", 2005, "⚔️ Sci-fi / Epic"),
+        new Movie("Life is Beautiful (La vita è bella)", 1997, "🎭 Comedy / Drama"),
+        new Movie("2001: A Space Odyssey", 1968, "🚀 Sci-fi / Philosophy"),
+        new Movie("Eternal Sunshine of the Spotless Mind", 2004, "💭 Romance / Surreal")
+
+    };
+
+
     // ==================== CONSTRUCTOR ====================
     public Arsalan() {
         System.out.println("[INFO] Initializing Arsalan instance...");
-        this.coffeeLevel = Coffee.FULL;
-        this.mode        = Mode.CREATIVE;
+        this.teaLevel = tea.FRESHLY_BREWED;
+        this.mode = Mode.CREATIVE;
     }
 
     // ==================== BEHAVIOR ====================
@@ -175,22 +196,42 @@ public class Arsalan extends Human implements Developer, AILearner, GuitarPlayer
     public void whatIDo() {
         System.out.println("🤖 Training CNNs and fine-tuning LLMs / Transformers");
         System.out.println("📊 Wrangling datasets with Pandas & NumPy");
-        System.out.println("🔧 Building RESTful APIs with Spring Boot & Flask");
-        System.out.println("🐧 Deploying on Linux environments");
-        System.out.println("🎸 Decompressing with Black Sabbath & Bach");
+        System.out.println("🤖 Training CNNs and fine-tuning LLMs / Transformers");
+        System.out.println("🧠 Developing AI-powered applications & experiments");
+        System.out.println("☕ Coding in Java & building backend services");
+        System.out.println("🐧 Living inside Linux terminals & customizing my setup");
+        System.out.println("🎧 Relaxing with Opeth, Tool & Pink Floyd");;
     }
 
     /**
      * My daily routine as a method call chain.
      */
     public void dailyRoutine() {
-        Coffee.drink(Coffee.STRONG);
+        Plants.water(Plants.ALL); // 🌱 First thing every morning
+        Beverage.pour(Beverage.HOT_TEA); // ☕ Then tea, always tea
+        Infusion.SAFFRON_ROSE.steep(); // 🍵 Or a Persian herbal infusion
         Linux.terminal.open();
         new IDE("IntelliJ IDEA").launch();
         this.writeCleanCode();
         this.trainModel(ModelType.NEURAL_NETWORK);
         Git.commit("feat: added something cool");
-        Guitar.play(Song.IRON_MAN);
+        Guitar.play(Song.WISH_YOU_WERE_HERE); // 🎸 Time to chill
+    }
+
+    /**
+     * Analyzes what my taste in books & movies says about me.
+     */
+    public void analyzeTaste() {
+        System.out.println("🧐 Taste analysis:");
+        System.out.println("   → Drawn to existential questions (Camus, Tolstoy)");
+        System.out.println("   → Fascinated by cosmos & human condition (2001, Dante)");
+        System.out.println("   → Love bittersweet, emotionally deep stories");
+        System.out.println("   → Sci-fi fan with a philosophical streak");
+    }
+
+    public void printCulture() {
+        UI.printSection("📚 Favorite Books",  FAVORITE_BOOKS);
+        UI.printSection("🎬 Favorite Movies", FAVORITE_MOVIES);
     }
 
     /**
@@ -212,6 +253,7 @@ public class Arsalan extends Human implements Developer, AILearner, GuitarPlayer
      */
     public Map<String, String> getSocialLinks() {
         return Map.of(
+            "Email",          "arsalannam9710@gmail.com"
             "Telegram",       "https://t.me/ARSALANnyn",
             "LinkedIn",       "https://linkedin.com/in/arsalannam",
             "YouTube",        "https://youtube.com/@arsalannam",
@@ -220,7 +262,6 @@ public class Arsalan extends Human implements Developer, AILearner, GuitarPlayer
             "Codewars",       "https://www.codewars.com/users/Echolyno",
             "Reddit",         "https://reddit.com/user/u/ARSALANys",
             "StackOverflow",  "https://stackexchange.com/users/45570542",
-            "Email",          "arsalannam9710@gmail.com"
         );
     }
 
@@ -235,98 +276,120 @@ public class Arsalan extends Human implements Developer, AILearner, GuitarPlayer
         me.whatIDo();
         me.printTechStack();
         me.dailyRoutine();
+        me.analyzeTaste();
+        me.printCulture();
+
     }
 }
 
 /**
  * Supporting interfaces & records.
  */
-interface Developer   { void writeCleanCode(); }
-interface AILearner   { void trainModel(ModelType type); }
+interface Developer{ void writeCleanCode(); }
+interface AILearner{ void trainModel(ModelType type); }
 interface GuitarPlayer{ void play(Song song); }
-enum Coffee { EMPTY, NORMAL, STRONG, FULL }
-enum Mode   { CHILL, CREATIVE, FOCUS }
-enum ModelType { NEURAL_NETWORK, CNN, TRANSFORMER, LLM }
-enum Song   { IRON_MAN, STAIRWAY_TO_HEAVEN, BACH_PRELUDE }
+interface PlantKeeper { void waterPlants(); }
+interface ArtLover     { void analyzeTaste(); }
 
+record Book  (String title, String author, String note) {}
+record Movie (String title, int year, String genre) {}
 
-```java
-import java.util.Map;
-import java.util.List;
+enum Tea {
+    EMPTY_CUP,
+    WARM,
+    HOT,
+    FRESHLY_BREWED
+}
 
-public class Arsalan {
+enum Beverage {
+    BLACK_TEA,
+    GREEN_TEA,
+    HOT_TEA,
+    ICED_TEA;
 
-    // 👨‍💻 Basic Info
-    public final String role = "Computer Engineering Student";
-    public final String title = "AI & Software Enthusiast";
-    public final String status = "Building cool things with code and data";
-    public final String focus = "AI & ML Learner | Java Learner | Linux User";
-
-    // 🧠 AI & Data Science Specialties
-    private final List<String> aiSpecialties = List.of(
-        "Artificial Intelligence (AI)",
-        "Machine Learning (ML)", 
-        "Deep Learning (DL)",
-        "Large Language Models (LLM)",
-         "Convolutional Neural Networks (CNN)"
-    );
-
-    // 💻 Programming Languages
-    private final List<String> programmingLanguages = List.of(
-        "Python", "Java", "C/C++, "HTML/CSS""
-    );
-
-    // 🛠️ Frameworks & Libraries
-    private final List<String> aiFrameworks = List.of(
-        "PyTorch", "TensorFlow", "Keras", "scikit-learn", "OpenCV"
-    );
-
-    private final List<String> dataTools = List.of(
-        "NumPy", "Pandas", "Matplotlib", "Seaborn", "SciPy", "Plotly", "Dash"
-    );
-
-    // ⚙️ Backend & Databases
-    private final List<String> backendAndDB = List.of(
-        "Spring Boot", "Flask", "PostgreSQL", "MySQL", "SQL"
-    );
-
-    // 🔧 Tools & Environment
-    private final List<String> tools = List.of(
-        "Git", "Linux", "Jupyter"
-    );
-
-    // 🌍 Spoken Languages
-    private final Map<String, String> languages = Map.of(
-        "Persian", "Native 🇮🇷",
-        "English", "Intermediate 🇬🇧",
-        "Italian", "Basic 🇮🇹"
-    );
-
-    // 🎸 Hobbies & Interests
-    private final List<String> hobbies = List.of(
-        "Listening to Rock, Metal & Classical Music 🤘🎼",
-        "Playing Guitar (Intermediate) 🎸"
-    );
-
-    // 🎯 Currently Learning / Exploring (بخش پیشنهادی)
-    private final String currentlyLearning = "Advanced RAG systems and MLOps";
-
-    // 📫 Contact / Socials (بخش پیشنهادی)
-    private final Map<String, String> contact = Map.of(
-        "Email", "your.email@example.com",
-        "LinkedIn", "linkedin.com/in/yourusername"
-    );
-
-    public void sayHi() {
-        System.out.println("Thanks for dropping by! Feel free to check out my repositories and let's build something awesome together.");
+    public static void pour(Beverage type) {
+        System.out.println("☕ Pouring " + type);
     }
 }
+
+enum Infusion {
+    CHAMOMILE,      // بابونه - برای آرامش
+    PEPPERMINT,     // نعنا - برای تمرکز
+    LAVENDER,       // اسطوخودوس
+    GINGER_LEMON,   // زنجبیل لیمو
+    SAFFRON_ROSE;   // زعفران گل محمدی - مخصوص ایرانی
+    LEMON_BALM,     // بادرنجبویه - آرامش‌بخش سنتی ایرانی
+    CINNAMON,       // دارچین - گرم و انرژی‌بخش
+    LEMON_VERBENA,  // به لیمو - عطر ملایم و دلنشین
+    HIBISCUS;       // چای ترش - ترش و خوش‌رنگ
+
+    public static void steep(Infusion type) {
+        System.out.println("🍵 Steeping " + type);
+    }
+}
+
+enum Plants {
+    ALL;
+
+    public static void water(Plants target) {
+        System.out.println("🌱 Morning ritual: watering the plants");
+    }
+}
+
+enum Mode   { CHILL, CREATIVE, FOCUS }
+enum ModelType { NEURAL_NETWORK, CNN, TRANSFORMER, LLM }
+
+/**
+ * Playlist inspired by progressive & psychedelic rock.
+ */
+enum Song {
+    // Opeth
+    GHOST_OF_PERDITION,
+    BLACKWATER_PARK,
+
+    // Tool
+    SCHISM,
+    FORTY_SIX_AND_2,
+
+    // Pink Floyd
+    WISH_YOU_WERE_HERE,
+    COMFORTABLY_NUMB;
+
+    public static void play(Song song) {
+        System.out.println("🎧 Now playing: " + song);
+    }
+}
+
+
 ```
 
+## 🎧 // === LIVE FROM SPOTIFY ===
+
+<!-- گزینه ۱: کارت "Now Playing" زنده -->
 <div align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
+</div>
 
-## 🌐 Socials
+<!-- گزینه ۲: لیست "Recently Played" -->
+<div align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=4&unique=true" alt="Spotify Recently Played" />
+  </a>
+</div>
 
+<!-- گزینه ۳: بج ساده لینک به پلی‌لیست -->
+<div align="center">
+  <a href="https://open.spotify.com/playlist/https://open.spotify.com/playlist/6h0VU9vSHkgiJRPoQiLlQq?si=491ab4160b884597">
+    <img src="https://img.shields.io/badge/My%20Prog%20Rock%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+  </a>
+</div>
+
+
+## ⚡ // === RUNTIME OUTPUT: CONNECT WITH ME ===
+
+<div align="center">
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@ARSALANnyn)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@arsalannam?si=NYLjwWdRJ1rpKrnW) 
 [![YouTube](https://img.shields.io/badge/YouTube-222222?style=for-the-badge&logo=youtube&logoColor=EEEEEE)](https://youtube.com/@echolyno?si=0-hh9q8pkeLF8uVo) 
@@ -338,19 +401,18 @@ public class Arsalan {
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/arsalannam/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Echolyno)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arsalannam9710@gmail.com) 
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ARSALANnam&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ARSALANnam&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARSALANnam&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 </div>
+
+
+
+## 📊 // === SYSTEM STATISTICS ===
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arsalannam&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=arsalannam&theme=dracula&hide_border=true" alt="Streak Stats" />
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalannam&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
+</div>
+
 
 <div align="center">
 <p>Have a good day!</p>
