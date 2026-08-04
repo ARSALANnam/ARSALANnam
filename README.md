@@ -220,11 +220,11 @@ public class Arsalan extends Human implements Developer, AILearner, GuitarPlayer
      * Analyzes what my taste in books & movies says about me.
      */
     public void analyzeTaste() {
-        System.out.println("🧐 Taste analysis:");
-        System.out.println("   → Drawn to existential questions (Camus, Tolstoy)");
-        System.out.println("   → Fascinated by cosmos & human condition (2001, Dante)");
-        System.out.println("   → Love bittersweet, emotionally deep stories");
-        System.out.println("   → Sci-fi fan with a philosophical streak");
+        System.out.println("Taste analysis:");
+        System.out.println(" Drawn to existential questions (Camus, Tolstoy)");
+        System.out.println(" Fascinated by cosmos & human condition (2001, Dante)");
+        System.out.println(" Love bittersweet, emotionally deep stories");
+        System.out.println(" Sci-fi fan with a philosophical streak");
     }
 
     public void printCulture() {
@@ -236,11 +236,11 @@ public class Arsalan extends Human implements Developer, AILearner, GuitarPlayer
      * Prints the complete tech stack to stdout.
      */
     public void printTechStack() {
-        UI.printSection("AI / ML / DL",      AI_CONCEPTS);
-        UI.printSection("Frameworks",        AI_FRAMEWORKS);
-        UI.printSection("Languages",         LANGUAGES);
-        UI.printSection("Data Science",      DATA_TOOLS);
-        UI.printSection("Dev Tools",         DEV_TOOLS);
+        UI.printSection("AI / ML / DL", AI_CONCEPTS);
+        UI.printSection("Frameworks", AI_FRAMEWORKS);
+        UI.printSection("Languages", LANGUAGES);
+        UI.printSection("Data Science", DATA_TOOLS);
+        UI.printSection("Dev Tools", DEV_TOOLS);
     }
 
     /**
@@ -309,15 +309,15 @@ enum Beverage {
 }
 
 enum Infusion {
-    CHAMOMILE,      // بابونه - برای آرامش
-    PEPPERMINT,     // نعنا - برای تمرکز
+    CHAMOMILE,      // بابونه 
+    PEPPERMINT,     // نعنا 
     LAVENDER,       // اسطوخودوس
     GINGER_LEMON,   // زنجبیل لیمو
-    SAFFRON_ROSE,  // زعفران گل محمدی - مخصوص ایرانی
-    LEMON_BALM,     // بادرنجبویه - آرامش‌بخش سنتی ایرانی
-    CINNAMON,       // دارچین - گرم و انرژی‌بخش
-    LEMON_VERBENA,  // به لیمو - عطر ملایم و دلنشین
-    HIBISCUS;       // چای ترش - ترش و خوش‌رنگ
+    SAFFRON_ROSE,  // زعفران گل محمدی 
+    LEMON_BALM,     // بادرنجبویه
+    CINNAMON,       // دارچین 
+    LEMON_VERBENA,  // به لیمو
+    HIBISCUS;       // چای ترش 
 
     public static void steep(Infusion type) {
         System.out.println("🍵 Steeping " + type);
