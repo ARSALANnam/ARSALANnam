@@ -2,16 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=600&lines=Code.+Create.+Improve.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
 
 <div align="center">
   <blockquote>
     <h3><i>🏴‍☠️ "You are gay for my code."</i></h3>
   </blockquote>
-</div>
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
 
