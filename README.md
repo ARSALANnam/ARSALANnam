@@ -310,15 +310,15 @@ enum Beverage {
 }
 
 enum Infusion {
-    CHAMOMILE,      // بابونه 
-    PEPPERMINT,     // نعنا 
-    LAVENDER,       // اسطوخودوس
-    GINGER_LEMON,   // زنجبیل لیمو
-    SAFFRON_ROSE,  // زعفران گل محمدی 
-    LEMON_BALM,     // بادرنجبویه
-    CINNAMON,       // دارچین 
-    LEMON_VERBENA,  // به لیمو
-    HIBISCUS;       // چای ترش 
+    CHAMOMILE,
+    PEPPERMINT,
+    LAVENDER,
+    GINGER_LEMON,
+    SAFFRON_ROSE,
+    LEMON_BALM, 
+    CINNAMON, 
+    LEMON_VERBENA,
+    HIBISCUS;
 
     public static void steep(Infusion type) {
         System.out.println("🍵 Steeping " + type);
