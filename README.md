@@ -98,7 +98,11 @@ I bridge the gap between **Artificial Intelligence** and **Software Engineering*
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 -->
 
----
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Header Animation" width="100%">
+</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=public+static+void+main(String[]+args);" alt="Typing SVG" />
