@@ -1,18 +1,4 @@
-<!-- MATRIX THEME README -->
-<div align="center">
 
-  <!-- Intro Card -->
-  <img src="https://raw.githubusercontent.com/bulkinglb/readme-frames/master/assets/intro-card.gif" alt="Intro" width="600">
-
-  <!-- Terminal -->
-  <br>
-  <img src="https://raw.githubusercontent.com/bulkinglb/readme-frames/master/assets/terminal.gif" alt="Terminal" width="400">
-
-  <!-- Commit Chart & Language Donut -->
-  <br><br>
-  <img src="https://raw.githubusercontent.com/bulkinglb/readme-frames/master/assets/commit-chart.gif" alt="Commits" width="450">
-  <br>
-  <img src="https://raw.githubusercontent.com/bulkinglb/readme-frames/master/assets/lang-donut.png" alt="Languages" width="350">
 
 
 
