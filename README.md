@@ -23,7 +23,7 @@ I bridge the gap between **Artificial Intelligence** and **Software Engineering*
 My daily workflow spans the full spectrum of software creation — from training and fine-tuning CNNs and Large Language Models (LLMs), to wrangling complex datasets with Pandas and NumPy, to architecting scalable backend services with Spring Boot and Flask. Beyond the server, I push Java to its limits by building system-level tools like custom IDEs and security-focused applications like CyberVault, while also crafting immersive interactive experiences through C# and Unity game development. I am driven by a single mission: to engineer intelligent, secure, and performant applications that solve real-world problems — all backed by clean architecture and seamless deployment in Linux environments.
 
 
-### 💻 Languages & Markup
+### - Languages & Markup
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=39ff14)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=39ff14)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=csharp&logoColor=39ff14)
@@ -32,7 +32,7 @@ My daily workflow spans the full spectrum of software creation — from training
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=39ff14)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=39ff14)
 
-### 🧠 AI & ML Concepts
+### - AI & ML Concepts
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning%20(ML)-000000?style=for-the-badge&logo=scikitlearn&logoColor=39ff14)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning%20(DL)-000000?style=for-the-badge&logo=tensorflow&logoColor=39ff14)
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence%20(AI)-000000?style=for-the-badge&logo=openai&logoColor=39ff14)
@@ -42,7 +42,7 @@ My daily workflow spans the full spectrum of software creation — from training
 ![LLM](https://img.shields.io/badge/-Large%20Language%20Models-000000?style=for-the-badge&logo=huggingface&logoColor=39ff14)
 ![Transformers](https://img.shields.io/badge/-Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=39ff14)
 
-### 🛠️ Frameworks & Libraries
+### - Frameworks & Libraries
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=39ff14)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=39ff14)
 ![Keras](https://img.shields.io/badge/-Keras-000000?style=for-the-badge&logo=keras&logoColor=39ff14)
@@ -50,7 +50,7 @@ My daily workflow spans the full spectrum of software creation — from training
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=39ff14)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=39ff14)
 
-### 📊 Data Science & Visualization
+### - Data Science & Visualization
 ![NumPy](https://img.shields.io/badge/-NumPy-000000?style=for-the-badge&logo=numpy&logoColor=39ff14)
 ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=for-the-badge&logo=pandas&logoColor=39ff14)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=39ff14)
@@ -60,14 +60,16 @@ My daily workflow spans the full spectrum of software creation — from training
 ![Dash](https://img.shields.io/badge/-Dash-000000?style=for-the-badge&logo=dash&logoColor=39ff14)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=39ff14)
 
-### 🌐 Java Web & Game Dev
+### - Java Web
 ![Tomcat](https://img.shields.io/badge/-Tomcat-000000?style=for-the-badge&logo=apachetomcat&logoColor=39ff14)
 ![Servlets](https://img.shields.io/badge/-Servlets-000000?style=for-the-badge&logo=apache&logoColor=39ff14)
 ![JSP](https://img.shields.io/badge/-JSP-000000?style=for-the-badge&logo=java&logoColor=39ff14)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-000000?style=for-the-badge&logo=hibernate&logoColor=39ff14)
+
+### - Game Dev
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=39ff14)
 
-### ⚙️ Tools & IDEs
+### - Tools & IDEs
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=39ff14)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=39ff14)
 ![Vim](https://img.shields.io/badge/-Vim-000000?style=for-the-badge&logo=vim&logoColor=39ff14)
