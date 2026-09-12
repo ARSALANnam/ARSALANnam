@@ -1,34 +1,12 @@
 
+<div align="center">
 
 
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARSALANnam&theme=github_dark" alt="commit activity" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARSALANnam&theme=github_dark" alt="languages" />
-
-
-  
 </div>
-
-<br>
-
-## 🧠 About Me
-
-```typescript
-const developer = {
-  role: ["Computer Engineering Student", "AI & ML Learner", "Java & Python Developer"],
-  focus: ["Deep Learning", "Neural Networks", "Software Architecture", "Clean Code"],
-  currentStack: ["Spring Boot", "Flask", "PyTorch", "TensorFlow"],
-  learning: ["C#", "Game Development"],
-  environment: ["Linux", "Vim", "IntelliJ IDEA"],
-  philosophy: "I bridge the gap between Artificial Intelligence and Software Engineering."
-};
-
-
-
-
-
-
 
 
 <div align="center">
