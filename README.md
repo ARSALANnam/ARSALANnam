@@ -14,12 +14,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div> -->
 
-![Matrix Divider](https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=4&section=header&reversal=false)
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Matrix Divider" width="100%" height="40">
-</div>
 
 ### 👨‍💻 About Me & What I Do
 
@@ -33,6 +27,7 @@
 I bridge the gap between **Artificial Intelligence** and **Software Engineering**. 
 My daily workflow spans the full spectrum of software creation — from training and fine-tuning CNNs and Large Language Models (LLMs), to wrangling complex datasets with Pandas and NumPy, to architecting scalable backend services with Spring Boot and Flask. Beyond the server, I push Java to its limits by building system-level tools like custom IDEs and security-focused applications like CyberVault, while also crafting immersive interactive experiences through C# and Unity game development. I am driven by a single mission: to engineer intelligent, secure, and performant applications that solve real-world problems — all backed by clean architecture and seamless deployment in Linux environments.
 
+![Matrix Divider](https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=4&section=header&reversal=false)
 
 ### - Languages & Markup
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=39ff14)
