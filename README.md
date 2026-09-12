@@ -1,5 +1,37 @@
 
+<div align="center">
 
+<!-- MATRIX-STYLE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=180&section=header&text=Echolyno&fontSize=42&fontColor=39ff14&animation=fadeIn&fontAlignY=38&desc=building%20quietly%20in%20the%20dark&descAlignY=58&descSize=16" width="100%"/>
+
+<br/>
+
+<!-- TERMINAL-STYLE TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=%3E+compiling+ideas+into+code...;%3E+java+%7C+python+%7C+web;%3E+cyberpunk+aesthetic%2C+minimal+noise" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<!-- ANIMATED TERMINAL COMPOSITION (from readme-frames) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Echolyno/readme-frames/master/assets/terminal.gif" alt="Terminal Animation" width="800">
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### `whoami`
+
+```yaml
+name: Echolyno
+focus: [AI tools, backend systems, utility apps]
+stack: [Java, Python, Web]
+env: Linux + IntelliJ IDEA
+mood: dark_mode: true
 
 
 
