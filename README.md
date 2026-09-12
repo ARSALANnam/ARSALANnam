@@ -1,3 +1,180 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=Echolyno;building+quietly+in+the+dark" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=39FF14&center=true&vCenter=true&width=500&lines=%3E+java+%7C+python+%7C+web;%3E+AI+%2F+ML+%2F+backend+systems" alt="Typing SVG" />
+</p>
+
+---
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### `whoami`
+
+```yaml
+name:  Echolyno
+focus: [AI tools, backend systems, utility apps]
+stack: [Java, Python, Web]
+env:   Linux + IntelliJ IDEA
+mood:  dark_mode: true
+```
+
+</td>
+<td valign="top" width="50%">
+
+### `stack --list`
+
+![Java](https://img.shields.io/badge/JAVA-00FF41?style=for-the-badge&logo=openjdk&logoColor=000000)
+![Python](https://img.shields.io/badge/PYTHON-00FF41?style=for-the-badge&logo=python&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-00FF41?style=for-the-badge&logo=javascript&logoColor=000000)
+![Linux](https://img.shields.io/badge/LINUX-00FF41?style=for-the-badge&logo=linux&logoColor=000000)
+![IntelliJ](https://img.shields.io/badge/INTELLIJ_IDEA-00FF41?style=for-the-badge&logo=intellijidea&logoColor=000000)
+![Git](https://img.shields.io/badge/GIT-00FF41?style=for-the-badge&logo=git&logoColor=000000)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 👨‍💻 About Me
+
+- 🤖 **AI & ML Learner** exploring Deep Learning and Neural Networks
+- 💻 **Computer Engineering Student**, focused on clean software architecture
+- 🐧 **Linux user** and terminal enthusiast
+- 🎯 **Java & Python developer**, currently diving into Spring Boot and Flask
+- 🎮 Learning **C#** for game development
+
+I bridge **Artificial Intelligence** and **Software Engineering** — training and fine-tuning CNNs and LLMs/Transformers, wrangling datasets with Pandas & NumPy, and shipping backend services with Spring Boot and Flask, all deployed from a Linux terminal.
+
+---
+
+## 🧠 Tech Stack
+
+<div align="center">
+
+**AI / ML / DL**
+![ML](https://img.shields.io/badge/Machine_Learning-00FF41?style=flat-square&logoColor=000000)
+![DL](https://img.shields.io/badge/Deep_Learning-00FF41?style=flat-square&logoColor=000000)
+![CNN](https://img.shields.io/badge/CNN-00FF41?style=flat-square&logoColor=000000)
+![NLP](https://img.shields.io/badge/NLP-00FF41?style=flat-square&logoColor=000000)
+![Transformers](https://img.shields.io/badge/Transformers-00FF41?style=flat-square&logoColor=000000)
+
+**Frameworks**
+![PyTorch](https://img.shields.io/badge/PyTorch-00FF41?style=flat-square&logo=pytorch&logoColor=000000)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-00FF41?style=flat-square&logo=tensorflow&logoColor=000000)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-00FF41?style=flat-square&logo=scikitlearn&logoColor=000000)
+![OpenCV](https://img.shields.io/badge/OpenCV-00FF41?style=flat-square&logo=opencv&logoColor=000000)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-00FF41?style=flat-square&logo=huggingface&logoColor=000000)
+
+**Data Science**
+![NumPy](https://img.shields.io/badge/NumPy-00FF41?style=flat-square&logo=numpy&logoColor=000000)
+![Pandas](https://img.shields.io/badge/Pandas-00FF41?style=flat-square&logo=pandas&logoColor=000000)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-00FF41?style=flat-square&logoColor=000000)
+![Jupyter](https://img.shields.io/badge/Jupyter-00FF41?style=flat-square&logo=jupyter&logoColor=000000)
+
+**Backend & DB**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-00FF41?style=flat-square&logo=springboot&logoColor=000000)
+![Flask](https://img.shields.io/badge/Flask-00FF41?style=flat-square&logo=flask&logoColor=000000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00FF41?style=flat-square&logo=postgresql&logoColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-00FF41?style=flat-square&logo=mysql&logoColor=000000)
+
+</div>
+
+---
+
+## `> ./run_daily_routine.sh`
+
+```java
+public void dailyRoutine() {
+    Plants.water(Plants.ALL);            // 🌱 first thing every morning
+    Beverage.pour(Beverage.HOT_TEA);     // ☕ then tea, always tea
+    Infusion.steep(Infusion.SAFFRON_ROSE);
+    Linux.terminal.open();
+    new IDE("IntelliJ IDEA").launch();
+    this.writeCleanCode();
+    this.trainModel(ModelType.NEURAL_NETWORK);
+    Git.commit("feat: added something cool");
+    Guitar.play(Song.WISH_YOU_WERE_HERE);   // 🎸 time to chill
+}
+```
+
+---
+
+## 📚 Culture & Taste
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**Favorite Books**
+- 📖 *The Divine Comedy* — Dante Alighieri
+- 📖 *Romeo and Juliet* — William Shakespeare
+- 📖 *The Fall* — Albert Camus
+- 📖 *The Devil* — Leo Tolstoy
+- 🚀 *Project Hail Mary* — Andy Weir
+
+</td>
+<td valign="top" width="50%">
+
+**Favorite Movies**
+- 🎬 *Léon: The Professional* (1994)
+- ⚔️ *Star Wars: Episode III* (2005)
+- 🎭 *Life is Beautiful* (1997)
+- 🚀 *2001: A Space Odyssey* (1968)
+- 💭 *Eternal Sunshine of the Spotless Mind* (2004)
+
+</td>
+</tr>
+</table>
+
+<p align="center"><i>Drawn to existential questions, cosmic wonder, and bittersweet stories with a philosophical streak.</i></p>
+
+---
+
+## 🎸 Hobbies
+
+`Guitar` · `Rock / Metal / Classical Music` · `Linux Customization` · `Plants` · `Reading AI Papers` · `Tea & Herbal Infusions` · `Philosophy & Sci-fi` · `Game Dev (C#)`
+
+---
+
+## 🔗 Connect
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-00FF41?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/ARSALANnyn)
+[![YouTube](https://img.shields.io/badge/YouTube-00FF41?style=for-the-badge&logo=youtube&logoColor=000000)](https://youtube.com/@echolyno)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/arsalannam)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-00FF41?style=for-the-badge&logo=stackoverflow&logoColor=000000)](https://stackexchange.com/users/45570542)
+[![Reddit](https://img.shields.io/badge/Reddit-00FF41?style=for-the-badge&logo=reddit&logoColor=000000)](https://reddit.com/user/u/ARSALANys)
+[![Kaggle](https://img.shields.io/badge/Kaggle-00FF41?style=for-the-badge&logo=kaggle&logoColor=000000)](https://www.kaggle.com/arsalannom)
+[![LeetCode](https://img.shields.io/badge/LeetCode-00FF41?style=for-the-badge&logo=leetcode&logoColor=000000)](https://leetcode.com/u/arsalannam/)
+[![Codewars](https://img.shields.io/badge/Codewars-00FF41?style=for-the-badge&logo=codewars&logoColor=000000)](https://www.codewars.com/users/Echolyno)
+[![Gmail](https://img.shields.io/badge/Gmail-00FF41?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:arsalannam9710@gmail.com)
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=39FF14&center=true&vCenter=true&width=400&lines=%3E+status%3A+online;%3E+have+a+good+day" alt="Typing SVG" />
+</p>
+
+
+
+
+
+
+
+
+
 <div align="center"> 
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=180&section=header&text=Echolyno&fontSize=42&fontColor=39ff14&animation=fadeIn&fontAlignY=38&desc=building%20quietly%20in%20the%20dark&descAlignY=58&descSize=16" width="100%"/>
