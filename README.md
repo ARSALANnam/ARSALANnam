@@ -1,11 +1,10 @@
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARSALANnam&theme=merko&bg_color=0d1117&title_color=39d353&text_color=39d353&icon_color=39d353&border_color=1a1a1a&chart_color=39d353&hide_logo=true" alt="commit activity" />
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARSALANnam&theme=merko&bg_color=0d1117&title_color=39d353&text_color=39d353&icon_color=39d353&border_color=1a1a1a&hide_logo=true" alt="languages" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARSALANnam&theme=github_dark" alt="commit activity" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARSALANnam&theme=github_dark" alt="languages" />
 </div>
 
 
