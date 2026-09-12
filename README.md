@@ -17,6 +17,10 @@
 ![Matrix Divider](https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=4&section=header&reversal=false)
 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Matrix Divider" width="100%" height="40">
+</div>
+
 ### 👨‍💻 About Me & What I Do
 
 - 🤖 **AI & ML Enthusiast:** Exploring the frontiers of Deep Learning, CNNs, and Transformer architectures.
