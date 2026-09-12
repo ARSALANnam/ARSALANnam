@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=180&section=header&text=Echolyno&fontSize=42&fontColor=39ff14&animation=fadeIn&fontAlignY=38&desc=building%20quietly%20in%20the%20dark&descAlignY=58&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=39FF14&center=true&width=435&lines=Code.+Creat.+Improve.;Compiling+ideas+into+code...;You+are+gay+for+my+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=1000&color=39FF14&center=true&width=435&lines=Code.+Creat.+Improve.;Compiling+ideas+into+code...;You+are+gay+for+my+code)](https://github.com/ARSALANnam)
 
 </div>
 <br/>
