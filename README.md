@@ -6,30 +6,23 @@
 
 </div>
 
-
-
-<img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=39ff14"/>
-<img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=39ff14"/>
-<img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39ff14"/>
-<img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=39ff14"/>
-<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=39ff14"/>
-<img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=39ff14"/>
-
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
+</div> -->
 
+### 👨‍💻 About Me & What I Do
 
-## 👨‍💻 About Me and What I Do
+- 🤖 **AI & ML Enthusiast:** Exploring the frontiers of Deep Learning, CNNs, and Transformer architectures.
+- 💻 **Computer Engineering Student:** Passionate about software architecture, clean code, and scalable systems.
+- ☕ **Java Developer (Beyond Web):** Expanding my expertise beyond backend APIs to build complex software. Currently developing tools like custom IDE features and secure applications like "CyberVault", alongside enterprise development with Spring Boot.
+- 🐧 **Linux Advocate:** Terminal enthusiast who thrives in open-source and CLI-driven environments.
+- 🎮 **Aspiring Game Developer:** Currently diving deep into C# and Unity to bring interactive worlds to life.
 
-- 🤖 **AI & ML Learner** exploring the frontiers of Deep Learning and Neural Networks.
-- 💻 **Computer Engineering Student** passionate about software architecture and clean code.
-- 🐧 **Linux User** and terminal enthusiast.
-- 🎯 **Java & Python Developer**, currently diving deep into Spring Boot and Flask.
--  🎮 **C# Learner**, embarking on a new journey into Game Development.
+---
 
-I bridge the gap between **Artificial Intelligence** and **Software Engineering**. My daily workflow involves training and fine-tuning **CNNs** and **Large Language Models (LLMs/Transformers)**, analyzing complex datasets using **Pandas** and **NumPy**, and deploying scalable backend services using **Spring Boot** and **Flask**. I am focused on building intelligent, data-driven applications and APIs that solve real-world problems while ensuring seamless deployment in **Linux** environments.
+I bridge the gap between **Artificial Intelligence** and **Software Engineering**. 
+My daily workflow spans the full spectrum of software creation — from training and fine-tuning CNNs and Large Language Models (LLMs), to wrangling complex datasets with Pandas and NumPy, to architecting scalable backend services with Spring Boot and Flask. Beyond the server, I push Java to its limits by building system-level tools like custom IDEs and security-focused applications like CyberVault, while also crafting immersive interactive experiences through C# and Unity game development. I am driven by a single mission: to engineer intelligent, secure, and performant applications that solve real-world problems — all backed by clean architecture and seamless deployment in Linux environments.
+
 
 ### 💻 Languages & Markup
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=39ff14)
