@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=1000&color=39FF14&center=true&width=435&lines=Code.+Creat.+Improve.;Compiling+ideas+into+code...;You+are+gay+for+my+code)](https://github.com/ARSALANnam)
 
 </div>
-<br/>
+
 
 
 <img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=39ff14"/>
@@ -15,19 +15,6 @@
 <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=39ff14"/>
 <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=39ff14"/>
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-
-
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Header Animation" width="100%">
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
