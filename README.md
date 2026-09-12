@@ -1,3 +1,41 @@
+<!-- MATRIX THEME README -->
+<div align="center">
+
+  <!-- Intro Card -->
+  <img src="https://raw.githubusercontent.com/bulkinglb/readme-frames/master/assets/intro-card.gif" alt="Intro" width="600">
+
+  <!-- Terminal -->
+  <br>
+  <img src="https://raw.githubusercontent.com/bulkinglb/readme-frames/master/assets/terminal.gif" alt="Terminal" width="400">
+
+  <!-- Commit Chart & Language Donut -->
+  <br><br>
+  <img src="https://raw.githubusercontent.com/bulkinglb/readme-frames/master/assets/commit-chart.gif" alt="Commits" width="450">
+  <br>
+  <img src="https://raw.githubusercontent.com/bulkinglb/readme-frames/master/assets/lang-donut.png" alt="Languages" width="350">
+
+</div>
+
+<br>
+
+## 🧠 About Me
+
+```typescript
+const developer = {
+  role: ["Computer Engineering Student", "AI & ML Learner", "Java & Python Developer"],
+  focus: ["Deep Learning", "Neural Networks", "Software Architecture", "Clean Code"],
+  currentStack: ["Spring Boot", "Flask", "PyTorch", "TensorFlow"],
+  learning: ["C#", "Game Development"],
+  environment: ["Linux", "Vim", "IntelliJ IDEA"],
+  philosophy: "I bridge the gap between Artificial Intelligence and Software Engineering."
+};
+
+
+
+
+
+
+
 
 <div align="center">
 
