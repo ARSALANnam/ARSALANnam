@@ -12,7 +12,6 @@
   </blockquote>
 </div>
 
-
 ## 👨‍💻 About Me and What I Do
 
 - 🤖 **AI & ML Learner** exploring the frontiers of Deep Learning and Neural Networks.
