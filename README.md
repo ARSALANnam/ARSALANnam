@@ -115,14 +115,19 @@ books:
   - title: "The Fall"
     author: "Albert Camus"
     vibe: "Existential reflections on guilt and judgment"
-  - title: "Project Hail Mary"
-    author: "Andy Weir"
-    vibe: "Sci-fi masterpiece — hope, science & loneliness"
+  - title: "Romeo and Juliet"
+    author: "William Shakespeare"
+    vibe: "Timeless tragedy of love and fate"
+  - title: "The Devil"
+    author: "Leo Tolstoy"
+    vibe: "A deep dive into temptation and moral struggle"
 
 movies_and_series:
   - "Léon: The Professional (1994)" : "Action / Drama"
   - "2001: A Space Odyssey (1968)" : "Sci-fi / Philosophy"
   - "Eternal Sunshine of the Spotless Mind (2004)" : "Romance / Surreal"
+  - "Life is Beautiful(La vita è bella) (1997)" : Comedy / Drama 
+  - "Star Wars: Ep. III (2005)" : Sci-fi / Epic 
   - "Silicon Valley / The Office" : "Comedy / Tech Culture"
   - "Attack on Titan / Sherlock" : "Masterpiece Storytelling"
 
@@ -131,6 +136,7 @@ games:
   - "The Witcher 3 & Cyberpunk 2077" : "Deep RPG / Open World"
   - "Assassin's Creed (Brotherhood, Mirage)" : "Historical Stealth / Action"
   - "Need for Speed: Carbon" : "Nostalgic Street Racing"
+  - "NBA2K" : "Sports Simulation"
 
 # ~/.config/lifestyle/preferences.yaml
 
