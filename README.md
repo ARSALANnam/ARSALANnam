@@ -18,6 +18,7 @@
 - 💻 **Computer Engineering Student** passionate about software architecture and clean code.
 - 🐧 **Linux User** and terminal enthusiast.
 - 🎯 **Java & Python Developer**, currently diving deep into Spring Boot and Flask.
+-  🎮 **C# Learner**, embarking on a new journey into Game Development.
 
 I bridge the gap between **Artificial Intelligence** and **Software Engineering**. My daily workflow involves training and fine-tuning **CNNs** and **Large Language Models (LLMs/Transformers)**, analyzing complex datasets using **Pandas** and **NumPy**, and deploying scalable backend services using **Spring Boot** and **Flask**. I am focused on building intelligent, data-driven applications and APIs that solve real-world problems while ensuring seamless deployment in **Linux** environments.
 
@@ -46,6 +47,7 @@ I bridge the gap between **Artificial Intelligence** and **Software Engineering*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -89,7 +91,7 @@ I bridge the gap between **Artificial Intelligence** and **Software Engineering*
  * ╚══════════════════════════════════════════════════════════════╝
  *
  * @author  Arsalan
- * @version 2.4.0
+ * @version 2.5.0
  * @since   2006
  *
  * Motto:   "Code. Create. Improve."
@@ -119,13 +121,14 @@ public class Arsalan extends Human implements Developer, AILearner, GuitarPlayer
         "📚 Reading AI Papers",
         "🍵 Tea & Herbal Infusions",
         "📚 Reading philosophy & sci-fi",
+        "🎮 Learning C# for Game Development",
         "🎬 Watching masterpieces"
     };
 
     // ==================== TECH STACK ====================
 
     private final String[] LANGUAGES = {
-        "Java", "Python", "C", "C++", "HTML5", "CSS3"
+        "Java", "Python", "C#", "C", "C++", "HTML5", "CSS3"
     };
 
     private final String[] AI_CONCEPTS = {
