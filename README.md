@@ -11,7 +11,6 @@
 </div>
 
 <div align="center">
-  <h1>Hi there, I'm <a href="https://github.com/ARSALANnam">Arsalan</a>! 👋</h1>
   <blockquote>
     <h3><i>🏴‍☠️ "You are gay for my code."</i></h3>
   </blockquote>
