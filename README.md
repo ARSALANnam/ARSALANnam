@@ -1,4 +1,124 @@
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=180&section=header&text=Echolyno&fontSize=42&fontColor=39ff14&animation=fadeIn&fontAlignY=38&desc=building%20quietly%20in%20the%20dark&descAlignY=58&descSize=16" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=%3E+compiling+ideas+into+code...;%3E+java+%7C+python+%7C+web;%3E+cyberpunk+aesthetic%2C+minimal+noise" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### `whoami`
+
+```yaml
+name: Echolyno
+focus: [AI tools, backend systems, utility apps]
+stack: [Java, Python, Web]
+env: Linux + IntelliJ IDEA
+mood: dark_mode: true
+```
+
+</td>
+<td valign="top" width="50%">
+
+### `stack --list`
+
+<img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=39ff14"/>
+<img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=39ff14"/>
+<img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39ff14"/>
+<img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=39ff14"/>
+<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=39ff14"/>
+<img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=39ff14"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### `ls ./projects`
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%">
+
+**🔊 Lyrics Finder CLI**
+Python CLI that finds song lyrics via text and audio identification.
+<img src="https://img.shields.io/badge/type-CLI-black?style=flat-square&labelColor=0d1117&color=39ff14"/>
+
+</td>
+<td width="50%">
+
+**🎧 Spotify Playlist Generator**
+Builds Spotify playlists from a described music taste, AI-driven.
+<img src="https://img.shields.io/badge/type-AI%2FbackenD-black?style=flat-square&labelColor=0d1117&color=ff2ec4"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔐 Password Manager**
+Java desktop app for password management, cyberpunk dark UI.
+<img src="https://img.shields.io/badge/type-desktop-black?style=flat-square&labelColor=0d1117&color=00e5ff"/>
+
+</td>
+<td width="50%">
+
+**🤖 Telegram GIF Bot**
+Personal Telegram bot in Python for fetching and sharing GIFs.
+<img src="https://img.shields.io/badge/type-bot-black?style=flat-square&labelColor=0d1117&color=ffd60a"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### `stats --render`
+
+<img src="https://github-readme-stats.vercel.app/api?username=Echolyno&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=ff2ec4&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Echolyno&theme=dark&hide_border=true&background=0d1117&ring=39ff14&fire=ff2ec4&currStreakLabel=39ff14" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echolyno&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9" height="150"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `connect --with me`
+
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39ff14"/>
+<img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00e5ff"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=100&section=footer"/>
+
+</div>
+
+
+
+
+
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Header Animation" width="100%">
 </div>
 
