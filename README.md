@@ -91,6 +91,73 @@ My daily workflow spans the full spectrum of software creation — from training
 </div>
 
 
+![Matrix Divider](https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=3&section=header&reversal=false)
+
+### 🌍 Languages
+![Persian](https://img.shields.io/badge/-🇮🇷%20Persian%20(Native)-000000?style=for-the-badge&logoColor=39ff14)
+![English](https://img.shields.io/badge/-🇬🇧%20English%20(Intermediate)-000000?style=for-the-badge&logoColor=39ff14)
+![Italian](https://img.shields.io/badge/-🇮🇹%20Italian%20(Basic)-000000?style=for-the-badge&logoColor=39ff14)
+
+---
+
+### 🧩 Beyond The Code
+- 🎸 **Musician:** Intermediate Guitarist | Rock, Metal & Classical enthusiast.
+- 🐧 **Tinkerer:** Deep dive into Linux Customization and dotfiles.
+- 🧠 **Lifelong Learner:** Reading AI/ML papers, Philosophy, Sci-Fi, and mastering C# for Game Dev.
+- 🌱 **Grounded:** Taking care of my plants and brewing the perfect herbal infusion.
+- 🎬 **Cinephile:** Watching cinematic masterpieces and top-tier series.
+
+---
+
+### 📚 Cultural Database
+
+| 📖 Favorite Books | ✍️ Author | 💭 The Vibe |
+| :--- | :--- | :--- |
+| **The Divine Comedy** | Dante Alighieri | An epic journey through Hell, Purgatory & Paradise |
+| **The Fall** | Albert Camus | Existential reflections on guilt and judgment |
+| **The Devil** | Leo Tolstoy | A deep dive into temptation and moral struggle |
+| **Project Hail Mary** | Andy Weir | Sci-fi masterpiece — hope, science & loneliness |
+| **Romeo and Juliet** | William Shakespeare | Timeless tragedy of love and fate |
+
+| 🎬 Movies & Series | 📅 Year | 🎭 Genre / Note |
+| :--- | :---: | :--- |
+| **Léon: The Professional** | 1994 | Action / Drama |
+| **2001: A Space Odyssey** | 1968 | Sci-fi / Philosophy |
+| **Eternal Sunshine of the Spotless Mind** | 2004 | Romance / Surreal |
+| **Life is Beautiful** *(La vita è bella)* | 1997 | Comedy / Drama |
+| **Star Wars: Ep. III** | 2005 | Sci-fi / Epic |
+| **Silicon Valley** / **The Office** | TV | Comedy / Tech Culture |
+| **Attack on Titan** / **Sherlock** | TV/Series | Masterpiece Storytelling |
+
+| 🎮 Favorite Games | 🕹️ Vibe / Genre |
+| :--- | :--- |
+| **BioShock 1** | Atmospheric / Philosophical FPS |
+| **The Witcher 3** & **Cyberpunk 2077** | Deep RPG / Open World |
+| **Assassin's Creed** (Brotherhood, Mirage) | Historical Stealth / Action |
+| **Need for Speed: Carbon** | Nostalgic Street Racing |
+| **NBA 2K** | Sports Simulation |
+
+---
+
+### ⚙️ System Config: `vibe_check.toml`
+```toml
+[music.relaxing]
+genres = ["Progressive Metal", "Art Rock", "Alternative"]
+artists = ["Opeth", "Tool", "Pink Floyd", "Katatonia", "Slipknot", "SOAD"]
+top_tracks = [
+    "Opeth - Ghost of Perdition / Blackwater Park",
+    "Tool - Schism / Forty Six & 2",
+    "Pink Floyd - Wish You Were Here / Comfortably Numb"
+]
+
+[tea.infusions]
+daily_rotation = [
+    "Chamomile", "Peppermint", "Lavender", 
+    "Ginger Lemon", "Saffron Rose", "Lemon Balm", 
+    "Cinnamon", "Lemon Verbena", "Hibiscus"
+]
+```
+
 <div align="center">
 
 # My Social
