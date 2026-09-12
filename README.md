@@ -1,25 +1,4 @@
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 Telegram GIF Bot**
-Personal inline GIF bot — hardened token handling, pagination, and a persistent VPS deployment via systemd.
-`Python` `Telegram API` `systemd`
-
-</td>
-<td width="50%" valign="top">
-
-**🎶 AI Music Playlist Web App**
-Prototype web app with a Persian RTL layout that builds playlists by mood, matching songs via the Anthropic API.
-`HTML/CSS/JS` `Anthropic API`
-
-</td>
-</tr>
-</table>
-
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Echolyno&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="165"/>
