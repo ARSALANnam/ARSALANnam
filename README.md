@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
-</div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=Echolyno;building+quietly+in+the+dark" alt="Typing SVG" />
