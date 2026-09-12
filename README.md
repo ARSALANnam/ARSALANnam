@@ -7,8 +7,7 @@
 <br/>
 
 <!-- TERMINAL-STYLE TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=%3E+compiling+ideas+into+code...;%3E+java+%7C+python+%7C+web;%3E+cyberpunk+aesthetic%2C+minimal+noise" alt="Typing SVG" />
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&width=435&lines=Code.+Creat.+Improve.;Compiling+ideas+into+code...;You+are+gay+for+my+code)](https://git.io/typing-svg)
 </div>
 
 <br/>
