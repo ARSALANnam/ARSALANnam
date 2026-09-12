@@ -8,6 +8,9 @@
 
 </div>
 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ARSALANnam&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area_color=39d353&area=true&hide_border=true)](https://github.com/ARSALANnam)
+
+
 <br/>
 
 <!-- ANIMATED TERMINAL COMPOSITION (from readme-frames) -->
