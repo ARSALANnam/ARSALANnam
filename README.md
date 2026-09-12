@@ -14,6 +14,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div> -->
 
+![Matrix Divider](https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=4&section=header&reversal=false)
+
+
 ### 👨‍💻 About Me & What I Do
 
 - 🤖 **AI & ML Enthusiast:** Exploring the frontiers of Deep Learning, CNNs, and Transformer architectures.
