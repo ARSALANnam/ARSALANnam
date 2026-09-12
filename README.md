@@ -1,3 +1,18 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Header Animation" width="100%">
+  <h1>Hi there, I'm <a href="https://github.com/ARSALANnam">Arsalan</a>! 👋</h1>
+  <p><em>🏴‍☠️ "You are gay for my code."</em></p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=for-the-badge" alt="Status">
+    <img src="https://img.shields.io/badge/Location-Iran-orange?style=for-the-badge" alt="Location">
+    <img src="https://img.shields.io/badge/Pronouns-He/Him-blue?style=for-the-badge" alt="Pronouns">
+  </p>
+</div>
+
+
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=600&lines=Code.+Create.+Improve.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
