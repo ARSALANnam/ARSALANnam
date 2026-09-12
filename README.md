@@ -2,30 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=180&section=header&text=Echolyno&fontSize=42&fontColor=39ff14&animation=fadeIn&fontAlignY=38&desc=building%20quietly%20in%20the%20dark&descAlignY=58&descSize=16" width="100%"/>
 
-<br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=21&pause=1000&color=39FF14&center=true&width=435&lines=Code.+Creat.+Improve.;Compiling+ideas+into+code...;You+are+gay+for+my+code)](https://git.io/typing-svg)
 
 </div>
 <br/>
 
-<!-- ANIMATED TERMINAL COMPOSITION (from readme-frames) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Echolyno/readme-frames/master/assets/terminal.gif" alt="Terminal Animation" width="800">
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-
-
-</td>
-<td valign="top" width="50%">
-
-### `stack --list`
 
 <img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=39ff14"/>
 <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=39ff14"/>
