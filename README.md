@@ -83,15 +83,7 @@ My daily workflow spans the full spectrum of software creation — from training
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=39ff14)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=39ff14)
 
-
-
-
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Header Animation" width="100%">
-</div>
-
+![Matrix Divider](https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=4&section=header&reversal=false)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=public+static+void+main(String[]+args);" alt="Typing SVG" />
