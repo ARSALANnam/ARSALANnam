@@ -7,10 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=21&pause=1000&color=39FF14&center=true&width=435&lines=Code.+Creat.+Improve.;Compiling+ideas+into+code...;You+are+gay+for+my+code)](https://git.io/typing-svg)
 
 </div>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ARSALANnam&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area_color=39d353&area=true&hide_border=true)](https://github.com/ARSALANnam)
-
-
 <br/>
 
 <!-- ANIMATED TERMINAL COMPOSITION (from readme-frames) -->
