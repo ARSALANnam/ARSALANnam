@@ -33,10 +33,11 @@ My daily workflow spans the full spectrum of software creation — from training
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=39ff14)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=39ff14)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=csharp&logoColor=39ff14)
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=39ff14)
+
+<!-- ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=39ff14)
 ![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=39ff14)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=39ff14)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=39ff14)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=39ff14)-->
 
 ### - AI & ML Concepts
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning%20(ML)-000000?style=for-the-badge&logo=scikitlearn&logoColor=39ff14)
@@ -52,7 +53,7 @@ My daily workflow spans the full spectrum of software creation — from training
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=39ff14)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=39ff14)
 ![Keras](https://img.shields.io/badge/-Keras-000000?style=for-the-badge&logo=keras&logoColor=39ff14)
-![scikit-learn](https://img.shields.io/badge/-scikit%2Dlearn-000000?style=for-the-badge&logo=scikitlearn&logoColor=39ff14)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=39ff14)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=39ff14)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=39ff14)
 
