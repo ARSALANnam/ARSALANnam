@@ -1,7 +1,7 @@
 <div align="center">
-<div align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Header" width="100%">
 </div>
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=180&section=header&text=Echolyno&fontSize=42&fontColor=39ff14&animation=fadeIn&fontAlignY=38&desc=building%20quietly%20in%20the%20dark&descAlignY=58&descSize=16" width="100%"/>
 
@@ -27,7 +27,12 @@
 I bridge the gap between **Artificial Intelligence** and **Software Engineering**. 
 My daily workflow spans the full spectrum of software creation — from training and fine-tuning CNNs and Large Language Models (LLMs), to wrangling complex datasets with Pandas and NumPy, to architecting scalable backend services with Spring Boot and Flask. Beyond the server, I push Java to its limits by building system-level tools like custom IDEs and security-focused applications like CyberVault, while also crafting immersive interactive experiences through C# and Unity game development. I am driven by a single mission: to engineer intelligent, secure, and performant applications that solve real-world problems — all backed by clean architecture and seamless deployment in Linux environments.
 
+<div align="center">
+  
 ![Matrix Divider](https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=4&section=header&reversal=false)
+
+</div>
+<div align="center">
 
 ### - Languages & Markup
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=39ff14)
@@ -84,97 +89,148 @@ My daily workflow spans the full spectrum of software creation — from training
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=39ff14)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=39ff14)
 
+</div>
+<div align="center">
+  
 ![Matrix Divider](https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=4&section=header&reversal=false)
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=public+static+void+main(String[]+args);" alt="Typing SVG" />
 </div>
 
+### - Beyond The Code
+-  **Musician:** Intermediate Guitarist | Rock & Classical enthusiast.
+-  **Tinkerer:** Deep dive into Linux Customization and dotfiles.
+-  **Lifelong Learner:** Reading AI/ML papers, Philosophy, Sci-Fi, and mastering C# for Game Dev.
+-  **Grounded:** Taking care of my plants and brewing the perfect herbal infusion.
+-  **Cinephile:** Watching cinematic masterpieces and top-tier series.
 
-![Matrix Divider](https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=3&section=header&reversal=false)
+<br>
+<br>
 
-### 🌍 Languages
-![Persian](https://img.shields.io/badge/-🇮🇷%20Persian%20(Native)-000000?style=for-the-badge&logoColor=39ff14)
-![English](https://img.shields.io/badge/-🇬🇧%20English%20(Intermediate)-000000?style=for-the-badge&logoColor=39ff14)
-![Italian](https://img.shields.io/badge/-🇮🇹%20Italian%20(Basic)-000000?style=for-the-badge&logoColor=39ff14)
+### - Cultural Database
+```yaml
+books:
+  - title: "The Divine Comedy"
+    author: "Dante Alighieri"
+    vibe: "An epic journey through Hell, Purgatory & Paradise"
+  - title: "The Fall"
+    author: "Albert Camus"
+    vibe: "Existential reflections on guilt and judgment"
+  - title: "Project Hail Mary"
+    author: "Andy Weir"
+    vibe: "Sci-fi masterpiece — hope, science & loneliness"
 
----
+movies_and_series:
+  - "Léon: The Professional (1994)" : "Action / Drama"
+  - "2001: A Space Odyssey (1968)" : "Sci-fi / Philosophy"
+  - "Eternal Sunshine of the Spotless Mind (2004)" : "Romance / Surreal"
+  - "Silicon Valley / The Office" : "Comedy / Tech Culture"
+  - "Attack on Titan / Sherlock" : "Masterpiece Storytelling"
 
-### 🧩 Beyond The Code
-- 🎸 **Musician:** Intermediate Guitarist | Rock, Metal & Classical enthusiast.
-- 🐧 **Tinkerer:** Deep dive into Linux Customization and dotfiles.
-- 🧠 **Lifelong Learner:** Reading AI/ML papers, Philosophy, Sci-Fi, and mastering C# for Game Dev.
-- 🌱 **Grounded:** Taking care of my plants and brewing the perfect herbal infusion.
-- 🎬 **Cinephile:** Watching cinematic masterpieces and top-tier series.
+games:
+  - "BioShock 1" : "Atmospheric / Philosophical FPS"
+  - "The Witcher 3 & Cyberpunk 2077" : "Deep RPG / Open World"
+  - "Assassin's Creed (Brotherhood, Mirage)" : "Historical Stealth / Action"
+  - "Need for Speed: Carbon" : "Nostalgic Street Racing"
 
----
+# ~/.config/lifestyle/preferences.yaml
 
-### 📚 Cultural Database
+music:
+  relaxing:
+    genres:
+      - Progressive Metal
+      - Art Rock
+      - Alternative
+    artists:
+      - Opeth
+      - Tool
+      - Pink Floyd
+      - Katatonia
+      - Slipknot
+      - System of a Down
+    top_tracks:
+      - "Opeth - Ghost of Perdition"
+      - "Opeth - Blackwater Park"
+      - "Tool - Schism"
+      - "Tool - Forty Six & 2"
+      - "Pink Floyd - Wish You Were Here"
+      - "Pink Floyd - Comfortably Numb"
 
-| 📖 Favorite Books | ✍️ Author | 💭 The Vibe |
-| :--- | :--- | :--- |
-| **The Divine Comedy** | Dante Alighieri | An epic journey through Hell, Purgatory & Paradise |
-| **The Fall** | Albert Camus | Existential reflections on guilt and judgment |
-| **The Devil** | Leo Tolstoy | A deep dive into temptation and moral struggle |
-| **Project Hail Mary** | Andy Weir | Sci-fi masterpiece — hope, science & loneliness |
-| **Romeo and Juliet** | William Shakespeare | Timeless tragedy of love and fate |
+tea:
+  infusions:
+    daily_rotation:
+      - Chamomile
+      - Peppermint
+      - Lavender
+      - Ginger Lemon
+      - Saffron Rose
+      - Lemon Balm
+      - Cinnamon
+      - Lemon Verbena
+      - Hibiscus
 
-| 🎬 Movies & Series | 📅 Year | 🎭 Genre / Note |
-| :--- | :---: | :--- |
-| **Léon: The Professional** | 1994 | Action / Drama |
-| **2001: A Space Odyssey** | 1968 | Sci-fi / Philosophy |
-| **Eternal Sunshine of the Spotless Mind** | 2004 | Romance / Surreal |
-| **Life is Beautiful** *(La vita è bella)* | 1997 | Comedy / Drama |
-| **Star Wars: Ep. III** | 2005 | Sci-fi / Epic |
-| **Silicon Valley** / **The Office** | TV | Comedy / Tech Culture |
-| **Attack on Titan** / **Sherlock** | TV/Series | Masterpiece Storytelling |
-
-| 🎮 Favorite Games | 🕹️ Vibe / Genre |
-| :--- | :--- |
-| **BioShock 1** | Atmospheric / Philosophical FPS |
-| **The Witcher 3** & **Cyberpunk 2077** | Deep RPG / Open World |
-| **Assassin's Creed** (Brotherhood, Mirage) | Historical Stealth / Action |
-| **Need for Speed: Carbon** | Nostalgic Street Racing |
-| **NBA 2K** | Sports Simulation |
-
----
-
-### ⚙️ System Config: `vibe_check.toml`
-```toml
-[music.relaxing]
-genres = ["Progressive Metal", "Art Rock", "Alternative"]
-artists = ["Opeth", "Tool", "Pink Floyd", "Katatonia", "Slipknot", "SOAD"]
-top_tracks = [
-    "Opeth - Ghost of Perdition / Blackwater Park",
-    "Tool - Schism / Forty Six & 2",
-    "Pink Floyd - Wish You Were Here / Comfortably Numb"
-]
-
-[tea.infusions]
-daily_rotation = [
-    "Chamomile", "Peppermint", "Lavender", 
-    "Ginger Lemon", "Saffron Rose", "Lemon Balm", 
-    "Cinnamon", "Lemon Verbena", "Hibiscus"
-]
 ```
 
 <div align="center">
 
-# My Social
+![Matrix Divider](https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=4&section=header&reversal=false)
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@ARSALANnyn)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@arsalannam?si=NYLjwWdRJ1rpKrnW) 
-[![YouTube](https://img.shields.io/badge/YouTube-222222?style=for-the-badge&logo=youtube&logoColor=EEEEEE)](https://youtube.com/@echolyno?si=0-hh9q8pkeLF8uVo) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arsalannam) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackexchange.com/users/45570542/arsalannam-echolyno?tab=top)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/u/ARSALANys)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arsalannom)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/arsalannam/)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Echolyno)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arsalannam9710@gmail.com) 
+</div>
 
+<div align="center">
 
+### - Languages
+![Persian](https://img.shields.io/badge/-🇮🇷%20Persian%20(Native)-000000?style=for-the-badge&logoColor=39ff14)
+![English](https://img.shields.io/badge/-🇬🇧%20English%20(Intermediate)-000000?style=for-the-badge&logoColor=39ff14)
+![Italian](https://img.shields.io/badge/-🇮🇹%20Italian%20(Basic)-000000?style=for-the-badge&logoColor=39ff14)
+
+</div>
+<div align="center">
+
+![Matrix Divider](https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=4&section=header&reversal=false)
+
+### - Social
+  <p align="center">
+    <a href="mailto:arsalannam9710@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=39ff14" alt="Gmail">
+    </a>
+    <a href="https://web.telegram.org/k/#@ARSALANnyn" target="_blank">
+      <img src="https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=39ff14" alt="Telegram">
+    </a>
+    <a href="https://linkedin.com/in/arsalannam" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39ff14" alt="LinkedIn">
+    </a>
+    <a href="https://youtube.com/@arsalannam?si=NYLjwWdRJ1rpKrnW" target="_blank">
+      <img src="https://img.shields.io/badge/-YouTube-000000?style=for-the-badge&logo=youtube&logoColor=39ff14" alt="YouTube Main">
+    </a>
+    <a href="https://youtube.com/@echolyno?si=0-hh9q8pkeLF8uVo" target="_blank">
+      <img src="https://img.shields.io/badge/-YouTube-000000?style=for-the-badge&logo=youtube&logoColor=39ff14" alt="YouTube EchoLyno">
+    </a>
+    <br> 
+    <a href="https://www.kaggle.com/arsalannom" target="_blank">
+      <img src="https://img.shields.io/badge/-Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=39ff14" alt="Kaggle">
+    </a>
+    <a href="https://leetcode.com/u/arsalannam/" target="_blank">
+      <img src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=39ff14" alt="LeetCode">
+    </a>
+    <a href="https://www.codewars.com/users/Echolyno" target="_blank">
+      <img src="https://img.shields.io/badge/-Codewars-000000?style=for-the-badge&logo=codewars&logoColor=39ff14" alt="Codewars">
+    </a>
+    <a href="https://stackexchange.com/users/45570542/arsalannam-echolyno?tab=top" target="_blank">
+      <img src="https://img.shields.io/badge/-StackOverflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=39ff14" alt="Stack Overflow">
+    </a>
+    <a href="https://reddit.com/user/u/ARSALANys" target="_blank">
+      <img src="https://img.shields.io/badge/-Reddit-000000?style=for-the-badge&logo=reddit&logoColor=39ff14" alt="Reddit">
+    </a>
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=39ff14" alt="Discord">
+    </a>
+  </p>
+
+![Matrix Divider](https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=4&section=header&reversal=false)
+
+</div>
+<div align="center">
+  
 [![](https://raw.githubusercontent.com/ARSALANnam/ARSALANnam/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ARSALANnam/ARSALANnam/main/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ARSALANnam/ARSALANnam/main/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ARSALANnam/ARSALANnam/main/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ARSALANnam/ARSALANnam/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
