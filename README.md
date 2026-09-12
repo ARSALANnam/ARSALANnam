@@ -14,6 +14,14 @@
   <br>
   <img src="https://raw.githubusercontent.com/bulkinglb/readme-frames/master/assets/lang-donut.png" alt="Languages" width="350">
 
+
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARSALANnam&theme=github_dark" alt="commit activity" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARSALANnam&theme=github_dark" alt="languages" />
+
+
+  
 </div>
 
 <br>
