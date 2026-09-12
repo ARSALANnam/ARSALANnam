@@ -101,7 +101,7 @@ I bridge the gap between **Artificial Intelligence** and **Software Engineering*
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=public+static+void+main(String[]+args);new+Arsalan().run();" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=public+static+void+main(String[]+args);" alt="Typing SVG" />
 </div>
 
 ```java
