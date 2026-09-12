@@ -44,76 +44,10 @@
 
 <br/>
 
-<div align="center">
 
-### `ls ./projects`
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%">
-
-**🔊 Lyrics Finder CLI**
-Python CLI that finds song lyrics via text and audio identification.
-<img src="https://img.shields.io/badge/type-CLI-black?style=flat-square&labelColor=0d1117&color=39ff14"/>
-
-</td>
-<td width="50%">
-
-**🎧 Spotify Playlist Generator**
-Builds Spotify playlists from a described music taste, AI-driven.
-<img src="https://img.shields.io/badge/type-AI%2FbackenD-black?style=flat-square&labelColor=0d1117&color=ff2ec4"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔐 Password Manager**
-Java desktop app for password management, cyberpunk dark UI.
-<img src="https://img.shields.io/badge/type-desktop-black?style=flat-square&labelColor=0d1117&color=00e5ff"/>
-
-</td>
-<td width="50%">
-
-**🤖 Telegram GIF Bot**
-Personal Telegram bot in Python for fetching and sharing GIFs.
-<img src="https://img.shields.io/badge/type-bot-black?style=flat-square&labelColor=0d1117&color=ffd60a"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-### `stats --render`
-
-<img src="https://github-readme-stats.vercel.app/api?username=Echolyno&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=ff2ec4&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Echolyno&theme=dark&hide_border=true&background=0d1117&ring=39ff14&fire=ff2ec4&currStreakLabel=39ff14" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echolyno&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9" height="150"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### `connect --with me`
-
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39ff14"/>
-<img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00e5ff"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=100&section=footer"/>
-
-</div>
+[![](https://raw.githubusercontent.com/ARSALANnam/ARSALANnam/main/profile-summary-card-output/midnight_purple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ARSALANnam/ARSALANnam/main/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ARSALANnam/ARSALANnam/main/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ARSALANnam/ARSALANnam/main/profile-summary-card-output/midnight_purple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ARSALANnam/ARSALANnam/main/profile-summary-card-output/midnight_purple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 
